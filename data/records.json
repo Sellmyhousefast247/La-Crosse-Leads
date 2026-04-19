@@ -1,9 +1,9 @@
 {
-  "fetched_at": null,
+  "fetched_at": "2026-04-19T21:40:44+00:00",
   "source": "La Crosse County, WI - Register of Deeds + LandNav + WCCA",
   "date_range": {
-    "start": null,
-    "end": null,
+    "start": "2026-04-12",
+    "end": "2026-04-19",
     "lookback_days": 7
   },
   "total": 0,
