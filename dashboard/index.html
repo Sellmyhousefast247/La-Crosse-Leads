@@ -52,20 +52,26 @@
   .type-Civil { background: rgba(139,148,158,0.18); color: var(--muted); }
   .type-other { background: rgba(139,148,158,0.18); color: var(--muted); }
   .flag-list { color: var(--muted); font-size: 12px; margin-top: 4px; }
-  .flag { display: inline-block; background: rgba(139,148,158,0.12); color: #b1bac4; padding: 2px 6px; border-radius: 4px; margin-right: 4px; font-size: 11px; }
+  .flag { display: inline-block; background: rgba(139,148,158,0.12); color: #b1bac4; padding: 2px 6px; border-radius: 4px; margin-right: 4px; margin-bottom: 2px; font-size: 11px; }
   a { color: var(--accent-2); text-decoration: none; }
   a:hover { text-decoration: underline; }
   .empty { padding: 40px; text-align: center; color: var(--muted); }
-  .caption { color: var(--muted); font-size: 12px; margin-top: 3px; max-width: 480px; }
+  .caption { color: var(--muted); font-size: 12px; margin-top: 3px; max-width: 420px; }
   .party { font-weight: 500; }
+  .addr { font-weight: 500; color: #d0d7de; }
+  .addr-muni { color: var(--muted); font-size: 12px; margin-top: 3px; }
+  .addr-none { color: #6e7681; font-style: italic; font-size: 12px; }
+  .btn-view { display: inline-block; font-size: 11px; padding: 3px 8px; border: 1px solid var(--border); border-radius: 4px; color: var(--muted); margin-top: 4px; }
+  .btn-view:hover { color: var(--text); background: var(--bg-3); text-decoration: none; }
   .meta { display: flex; gap: 16px; margin-bottom: 16px; font-size: 13px; color: var(--muted); flex-wrap: wrap; }
   .meta b { color: var(--text); font-weight: 600; }
+  .addr-check { accent-color: var(--accent); }
 </style>
 </head>
 <body>
 <header>
   <h1>La Crosse County, WI — Motivated Seller Leads</h1>
-  <div class="sub">Sell My House Fast 247 · Wisconsin Circuit Courts (WCCA)</div>
+  <div class="sub">Sell My House Fast 247 · Wisconsin Circuit Courts (WCCA) + La Crosse County Public Portal</div>
 </header>
 <main>
   <div class="meta" id="meta"></div>
@@ -79,8 +85,9 @@
       <option value="70">Score ≥ 70</option>
       <option value="80">Score ≥ 80</option>
     </select>
-    <input id="search" type="search" placeholder="Search party, caption, case #…">
-    <button id="export">Export filtered to CSV</button>
+    <label style="color:var(--muted);font-size:13px;display:flex;align-items:center;gap:6px"><input type="checkbox" id="filter-addr" class="addr-check"> With address only</label>
+    <input id="search" type="search" placeholder="Search party, caption, address, case #…">
+    <button id="export">Export filtered CSV</button>
     <button id="export-ghl" class="primary">Export GHL CSV</button>
     <span class="count" id="count"></span>
   </div>
@@ -93,8 +100,8 @@
           <th data-sort="filing_date">Filed</th>
           <th data-sort="case_no">Case #</th>
           <th data-sort="name">Party / Caption</th>
+          <th data-sort="property_address">Property Address</th>
           <th>Flags</th>
-          <th>Source</th>
         </tr>
       </thead>
       <tbody></tbody>
@@ -103,12 +110,11 @@
   </div>
 </main>
 <script>
-  const state = { records: [], sortKey: 'seller_score', sortDir: 'desc', filterType: '', minScore: 0, search: '' };
+  const state = { records: [], sortKey: 'seller_score', sortDir: 'desc', filterType: '', minScore: 0, addrOnly: false, search: '' };
 
   function typeClass(t) {
     if (!t) return 'type-other';
-    const safe = String(t).replace(/[^A-Za-z]/g, '-');
-    return 'type-' + safe;
+    return 'type-' + String(t).replace(/[^A-Za-z]/g, '-');
   }
   function scoreClass(s) {
     if (s >= 70) return 'score-high';
@@ -128,8 +134,9 @@
     let out = state.records.filter(r => {
       if (state.filterType && r.lead_type !== state.filterType) return false;
       if ((r.seller_score || 0) < state.minScore) return false;
+      if (state.addrOnly && !r.property_address) return false;
       if (q) {
-        const hay = [r.name, r.caption, r.case_no, (r.flags||[]).join(' ')].join(' ').toLowerCase();
+        const hay = [r.name, r.caption, r.case_no, r.property_address, r.property_city, (r.flags||[]).join(' ')].join(' ').toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
@@ -151,14 +158,20 @@
     tbody.innerHTML = rows.map(r => {
       const flags = (r.flags || []).map(f => '<span class="flag">' + esc(f) + '</span>').join('');
       const url = r.url && r.url.startsWith('http') ? r.url : wccaUrl(r.case_no);
+      const addrCell = r.property_address
+        ? '<div class="addr">' + esc(r.property_address) + '</div>' +
+          (r.property_city ? '<div class="addr-muni">' + esc(r.property_city) + ', WI</div>' : '') +
+          (r.owner_of_record && r.owner_of_record !== r.name ? '<div class="addr-muni">Owner: ' + esc(r.owner_of_record) + '</div>' : '')
+        : '<div class="addr-none">No parcel match</div>' +
+          '<a class="btn-view" href="' + esc(url) + '" target="_blank" rel="noopener">Look up on WCCA</a>';
       return '<tr>' +
         '<td><span class="score ' + scoreClass(r.seller_score || 0) + '">' + (r.seller_score || 0) + '</span></td>' +
         '<td><span class="type-pill ' + typeClass(r.lead_type) + '">' + esc(r.lead_type || '—') + '</span></td>' +
         '<td>' + esc(r.filing_date || '') + '</td>' +
         '<td>' + (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(r.case_no || '') + '</a>' : esc(r.case_no || '')) + '</td>' +
         '<td><div class="party">' + esc(r.name || '') + '</div><div class="caption">' + esc(r.caption || '') + '</div></td>' +
+        '<td>' + addrCell + '</td>' +
         '<td>' + flags + '</td>' +
-        '<td style="color:var(--muted);font-size:12px">' + esc(r.source || '') + '</td>' +
         '</tr>';
     }).join('');
     document.getElementById('empty').style.display = rows.length ? 'none' : 'block';
@@ -167,29 +180,39 @@
 
   function toCsv(rows, ghl) {
     const headers = ghl
-      ? ['First Name','Last Name','Mailing Address','Mailing City','Mailing State','Mailing Zip','Property Address','Property City','Property State','Property Zip','Lead Type','Document Type','Date Filed','Document Number','Seller Score','Motivated Seller Flags','Source','Public Records URL']
-      : ['seller_score','lead_type','filing_date','case_no','name','caption','flags','status','source','url'];
+      ? ['First Name','Last Name','Property Address','Property City','Property State','Property Zip','Mailing Address','Lead Type','Document Type','Date Filed','Document Number','Seller Score','Motivated Seller Flags','Source','Public Records URL','Parcel Number','Owner of Record','Address Source']
+      : ['seller_score','lead_type','filing_date','case_no','name','caption','property_address','property_city','mailing_address','owner_of_record','parcel_id','flags','status','source','url','address_source'];
     const esc2 = v => { v = v == null ? '' : String(v); return '"' + v.replace(/"/g, '""') + '"'; };
     const lines = [headers.map(esc2).join(',')];
     for (const r of rows) {
       let row;
       if (ghl) {
-        // naive split: put entity names (LLC/Inc/Estate) in Last Name, otherwise last word as Last Name
         const nm = r.name || '';
-        const isEntity = /(LLC|INC|CORP|LTD|LP|LLP|BANK|CREDIT UNION|ESTATE|TRUST|N\.?A\.?)/i.test(nm);
+        const isEntity = /\b(LLC|INC|CORP|LTD|LP|LLP|BANK|CREDIT UNION|ESTATE|TRUST|N\.?A\.?|MORTGAGE|FINANCIAL)\b/i.test(nm);
         let first = '', last = nm;
         if (!isEntity && nm.trim()) {
-          const parts = nm.trim().split(/\s+/);
-          if (parts.length > 1) { first = parts.slice(0, -1).join(' '); last = parts.slice(-1)[0]; }
+          if (nm.includes(',')) {
+            const [l, rest] = nm.split(',');
+            last = l.trim();
+            first = (rest.trim().split(/\s+/)[0]) || '';
+          } else {
+            const parts = nm.trim().split(/\s+/);
+            if (parts.length > 1) { first = parts[0]; last = parts.slice(1).join(' '); }
+          }
         }
-        row = [first, last, '', '', 'WI', '', '', '', 'WI', '',
+        row = [first, last,
+               r.property_address || '', r.property_city || '', r.property_state || 'WI', r.property_zip || '',
+               r.mailing_address || '',
                r.lead_type || '', r.case_type || '', r.filing_date || '', r.case_no || '',
                r.seller_score || 0, (r.flags || []).join('; '), r.source || '',
-               (r.url && r.url.startsWith('http')) ? r.url : wccaUrl(r.case_no)];
+               (r.url && r.url.startsWith('http')) ? r.url : wccaUrl(r.case_no),
+               r.parcel_id || '', r.owner_of_record || '', r.address_source || ''];
       } else {
         row = [r.seller_score||0, r.lead_type||'', r.filing_date||'', r.case_no||'', r.name||'',
-               r.caption||'', (r.flags||[]).join('; '), r.status||'', r.source||'',
-               (r.url && r.url.startsWith('http')) ? r.url : wccaUrl(r.case_no)];
+               r.caption||'', r.property_address||'', r.property_city||'', r.mailing_address||'',
+               r.owner_of_record||'', r.parcel_id||'', (r.flags||[]).join('; '), r.status||'', r.source||'',
+               (r.url && r.url.startsWith('http')) ? r.url : wccaUrl(r.case_no),
+               r.address_source||''];
       }
       lines.push(row.map(esc2).join(','));
     }
@@ -207,6 +230,7 @@
 
   document.getElementById('filter-type').addEventListener('change', e => { state.filterType = e.target.value; render(); });
   document.getElementById('filter-score').addEventListener('change', e => { state.minScore = +e.target.value || 0; render(); });
+  document.getElementById('filter-addr').addEventListener('change', e => { state.addrOnly = e.target.checked; render(); });
   document.getElementById('search').addEventListener('input', e => { state.search = e.target.value; render(); });
   document.getElementById('export').addEventListener('click', () => {
     download('la_crosse_leads_' + new Date().toISOString().slice(0,10) + '.csv', toCsv(filtered(), false));
@@ -227,16 +251,13 @@
     .then(r => r.json())
     .then(data => {
       state.records = Array.isArray(data) ? data : (data.records || []);
-      // populate type filter
       const types = [...new Set(state.records.map(r => r.lead_type).filter(Boolean))].sort();
       const sel = document.getElementById('filter-type');
-      for (const t of types) {
-        const o = document.createElement('option'); o.value = t; o.textContent = t; sel.appendChild(o);
-      }
-      // meta
+      for (const t of types) { const o = document.createElement('option'); o.value = t; o.textContent = t; sel.appendChild(o); }
       const m = document.getElementById('meta');
       const meta = [];
       if (data.total != null) meta.push('<span><b>' + data.total + '</b> leads</span>');
+      if (data.enriched != null) meta.push('<span><b>' + data.enriched + '</b> with addresses (' + Math.round(100 * data.enriched / Math.max(data.total, 1)) + '%)</span>');
       if (data.date_from && data.date_to) meta.push('<span>Filed <b>' + data.date_from + '</b> → <b>' + data.date_to + '</b></span>');
       if (data.lookback_days) meta.push('<span>Lookback: <b>' + data.lookback_days + '</b> days</span>');
       if (data.generated) meta.push('<span>Updated: <b>' + new Date(data.generated).toLocaleString() + '</b></span>');
