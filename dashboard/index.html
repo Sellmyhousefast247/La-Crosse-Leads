@@ -1,1 +1,251 @@
-file:///C:/Users/leode/Downloads/La%20Crosse,%20WI%20Intel/files2/index.html
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>La Crosse Leads — Sell My House Fast 247</title>
+<style>
+  :root {
+    --bg: #0e1116;
+    --bg-2: #151b23;
+    --bg-3: #1c232c;
+    --border: #2a323d;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --accent: #f78166;
+    --accent-2: #58a6ff;
+    --green: #3fb950;
+    --yellow: #d29922;
+    --red: #f85149;
+    --purple: #bc8cff;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; }
+  header { padding: 20px 28px; border-bottom: 1px solid var(--border); background: var(--bg-2); }
+  header h1 { margin: 0 0 4px; font-size: 20px; font-weight: 600; }
+  header .sub { color: var(--muted); font-size: 13px; }
+  main { padding: 20px 28px 60px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px; align-items: center; }
+  .controls select, .controls input, .controls button { background: var(--bg-3); color: var(--text); border: 1px solid var(--border); border-radius: 6px; padding: 7px 12px; font-size: 13px; font-family: inherit; }
+  .controls input[type="search"] { min-width: 260px; }
+  .controls button { cursor: pointer; font-weight: 500; }
+  .controls button:hover { background: #262e38; }
+  .controls button.primary { background: var(--accent); color: #0e1116; border-color: var(--accent); }
+  .controls button.primary:hover { background: #ff9178; }
+  .count { color: var(--muted); margin-left: auto; font-size: 13px; }
+  table { width: 100%; border-collapse: collapse; background: var(--bg-2); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { background: var(--bg-3); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.3px; color: var(--muted); cursor: pointer; user-select: none; white-space: nowrap; }
+  th:hover { color: var(--text); }
+  tbody tr:hover { background: var(--bg-3); }
+  tbody tr:last-child td { border-bottom: none; }
+  .score { display: inline-block; min-width: 32px; padding: 4px 8px; border-radius: 4px; font-weight: 700; font-size: 13px; text-align: center; }
+  .score-high { background: rgba(248,81,73,0.18); color: #ff7b72; }
+  .score-mid { background: rgba(210,153,34,0.18); color: #e3b341; }
+  .score-low { background: rgba(63,185,80,0.15); color: #56d364; }
+  .type-pill { display: inline-block; padding: 3px 8px; border-radius: 10px; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.3px; }
+  .type-Foreclosure { background: rgba(248,81,73,0.16); color: #ff7b72; }
+  .type-Probate { background: rgba(188,140,255,0.16); color: var(--purple); }
+  .type-Lien { background: rgba(210,153,34,0.16); color: #e3b341; }
+  .type-Judgment { background: rgba(88,166,255,0.16); color: var(--accent-2); }
+  .type-Small-Claims { background: rgba(63,185,80,0.16); color: #56d364; }
+  .type-Civil { background: rgba(139,148,158,0.18); color: var(--muted); }
+  .type-other { background: rgba(139,148,158,0.18); color: var(--muted); }
+  .flag-list { color: var(--muted); font-size: 12px; margin-top: 4px; }
+  .flag { display: inline-block; background: rgba(139,148,158,0.12); color: #b1bac4; padding: 2px 6px; border-radius: 4px; margin-right: 4px; font-size: 11px; }
+  a { color: var(--accent-2); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .empty { padding: 40px; text-align: center; color: var(--muted); }
+  .caption { color: var(--muted); font-size: 12px; margin-top: 3px; max-width: 480px; }
+  .party { font-weight: 500; }
+  .meta { display: flex; gap: 16px; margin-bottom: 16px; font-size: 13px; color: var(--muted); flex-wrap: wrap; }
+  .meta b { color: var(--text); font-weight: 600; }
+</style>
+</head>
+<body>
+<header>
+  <h1>La Crosse County, WI — Motivated Seller Leads</h1>
+  <div class="sub">Sell My House Fast 247 · Wisconsin Circuit Courts (WCCA)</div>
+</header>
+<main>
+  <div class="meta" id="meta"></div>
+  <div class="controls">
+    <select id="filter-type"><option value="">All lead types</option></select>
+    <select id="filter-score">
+      <option value="0">All scores</option>
+      <option value="40">Score ≥ 40</option>
+      <option value="50">Score ≥ 50</option>
+      <option value="60">Score ≥ 60</option>
+      <option value="70">Score ≥ 70</option>
+      <option value="80">Score ≥ 80</option>
+    </select>
+    <input id="search" type="search" placeholder="Search party, caption, case #…">
+    <button id="export">Export filtered to CSV</button>
+    <button id="export-ghl" class="primary">Export GHL CSV</button>
+    <span class="count" id="count"></span>
+  </div>
+  <div id="tablewrap">
+    <table id="leads">
+      <thead>
+        <tr>
+          <th data-sort="seller_score">Score</th>
+          <th data-sort="lead_type">Type</th>
+          <th data-sort="filing_date">Filed</th>
+          <th data-sort="case_no">Case #</th>
+          <th data-sort="name">Party / Caption</th>
+          <th>Flags</th>
+          <th>Source</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <div class="empty" id="empty" style="display:none">No leads match your filters.</div>
+  </div>
+</main>
+<script>
+  const state = { records: [], sortKey: 'seller_score', sortDir: 'desc', filterType: '', minScore: 0, search: '' };
+
+  function typeClass(t) {
+    if (!t) return 'type-other';
+    const safe = String(t).replace(/[^A-Za-z]/g, '-');
+    return 'type-' + safe;
+  }
+  function scoreClass(s) {
+    if (s >= 70) return 'score-high';
+    if (s >= 50) return 'score-mid';
+    return 'score-low';
+  }
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+  function wccaUrl(caseNo) {
+    if (!caseNo) return '';
+    return 'https://wcca.wicourts.gov/caseDetail.html?caseNo=' + encodeURIComponent(caseNo) + '&countyNo=32';
+  }
+
+  function filtered() {
+    const q = state.search.trim().toLowerCase();
+    let out = state.records.filter(r => {
+      if (state.filterType && r.lead_type !== state.filterType) return false;
+      if ((r.seller_score || 0) < state.minScore) return false;
+      if (q) {
+        const hay = [r.name, r.caption, r.case_no, (r.flags||[]).join(' ')].join(' ').toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
+    const k = state.sortKey, dir = state.sortDir === 'asc' ? 1 : -1;
+    out.sort((a, b) => {
+      let av = a[k], bv = b[k];
+      if (av == null) av = '';
+      if (bv == null) bv = '';
+      if (typeof av === 'number' && typeof bv === 'number') return (av - bv) * dir;
+      return String(av).localeCompare(String(bv)) * dir;
+    });
+    return out;
+  }
+
+  function render() {
+    const rows = filtered();
+    const tbody = document.querySelector('#leads tbody');
+    tbody.innerHTML = rows.map(r => {
+      const flags = (r.flags || []).map(f => '<span class="flag">' + esc(f) + '</span>').join('');
+      const url = r.url && r.url.startsWith('http') ? r.url : wccaUrl(r.case_no);
+      return '<tr>' +
+        '<td><span class="score ' + scoreClass(r.seller_score || 0) + '">' + (r.seller_score || 0) + '</span></td>' +
+        '<td><span class="type-pill ' + typeClass(r.lead_type) + '">' + esc(r.lead_type || '—') + '</span></td>' +
+        '<td>' + esc(r.filing_date || '') + '</td>' +
+        '<td>' + (url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(r.case_no || '') + '</a>' : esc(r.case_no || '')) + '</td>' +
+        '<td><div class="party">' + esc(r.name || '') + '</div><div class="caption">' + esc(r.caption || '') + '</div></td>' +
+        '<td>' + flags + '</td>' +
+        '<td style="color:var(--muted);font-size:12px">' + esc(r.source || '') + '</td>' +
+        '</tr>';
+    }).join('');
+    document.getElementById('empty').style.display = rows.length ? 'none' : 'block';
+    document.getElementById('count').textContent = rows.length + ' of ' + state.records.length + ' leads';
+  }
+
+  function toCsv(rows, ghl) {
+    const headers = ghl
+      ? ['First Name','Last Name','Mailing Address','Mailing City','Mailing State','Mailing Zip','Property Address','Property City','Property State','Property Zip','Lead Type','Document Type','Date Filed','Document Number','Seller Score','Motivated Seller Flags','Source','Public Records URL']
+      : ['seller_score','lead_type','filing_date','case_no','name','caption','flags','status','source','url'];
+    const esc2 = v => { v = v == null ? '' : String(v); return '"' + v.replace(/"/g, '""') + '"'; };
+    const lines = [headers.map(esc2).join(',')];
+    for (const r of rows) {
+      let row;
+      if (ghl) {
+        // naive split: put entity names (LLC/Inc/Estate) in Last Name, otherwise last word as Last Name
+        const nm = r.name || '';
+        const isEntity = /(LLC|INC|CORP|LTD|LP|LLP|BANK|CREDIT UNION|ESTATE|TRUST|N\.?A\.?)/i.test(nm);
+        let first = '', last = nm;
+        if (!isEntity && nm.trim()) {
+          const parts = nm.trim().split(/\s+/);
+          if (parts.length > 1) { first = parts.slice(0, -1).join(' '); last = parts.slice(-1)[0]; }
+        }
+        row = [first, last, '', '', 'WI', '', '', '', 'WI', '',
+               r.lead_type || '', r.case_type || '', r.filing_date || '', r.case_no || '',
+               r.seller_score || 0, (r.flags || []).join('; '), r.source || '',
+               (r.url && r.url.startsWith('http')) ? r.url : wccaUrl(r.case_no)];
+      } else {
+        row = [r.seller_score||0, r.lead_type||'', r.filing_date||'', r.case_no||'', r.name||'',
+               r.caption||'', (r.flags||[]).join('; '), r.status||'', r.source||'',
+               (r.url && r.url.startsWith('http')) ? r.url : wccaUrl(r.case_no)];
+      }
+      lines.push(row.map(esc2).join(','));
+    }
+    return lines.join('\n');
+  }
+
+  function download(name, text) {
+    const blob = new Blob([text], {type: 'text/csv;charset=utf-8'});
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = name;
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  }
+
+  document.getElementById('filter-type').addEventListener('change', e => { state.filterType = e.target.value; render(); });
+  document.getElementById('filter-score').addEventListener('change', e => { state.minScore = +e.target.value || 0; render(); });
+  document.getElementById('search').addEventListener('input', e => { state.search = e.target.value; render(); });
+  document.getElementById('export').addEventListener('click', () => {
+    download('la_crosse_leads_' + new Date().toISOString().slice(0,10) + '.csv', toCsv(filtered(), false));
+  });
+  document.getElementById('export-ghl').addEventListener('click', () => {
+    download('la_crosse_ghl_' + new Date().toISOString().slice(0,10) + '.csv', toCsv(filtered(), true));
+  });
+  document.querySelectorAll('th[data-sort]').forEach(th => {
+    th.addEventListener('click', () => {
+      const k = th.dataset.sort;
+      if (state.sortKey === k) state.sortDir = state.sortDir === 'asc' ? 'desc' : 'asc';
+      else { state.sortKey = k; state.sortDir = (k === 'seller_score' || k === 'filing_date') ? 'desc' : 'asc'; }
+      render();
+    });
+  });
+
+  fetch('records.json', {cache: 'no-store'})
+    .then(r => r.json())
+    .then(data => {
+      state.records = Array.isArray(data) ? data : (data.records || []);
+      // populate type filter
+      const types = [...new Set(state.records.map(r => r.lead_type).filter(Boolean))].sort();
+      const sel = document.getElementById('filter-type');
+      for (const t of types) {
+        const o = document.createElement('option'); o.value = t; o.textContent = t; sel.appendChild(o);
+      }
+      // meta
+      const m = document.getElementById('meta');
+      const meta = [];
+      if (data.total != null) meta.push('<span><b>' + data.total + '</b> leads</span>');
+      if (data.date_from && data.date_to) meta.push('<span>Filed <b>' + data.date_from + '</b> → <b>' + data.date_to + '</b></span>');
+      if (data.lookback_days) meta.push('<span>Lookback: <b>' + data.lookback_days + '</b> days</span>');
+      if (data.generated) meta.push('<span>Updated: <b>' + new Date(data.generated).toLocaleString() + '</b></span>');
+      m.innerHTML = meta.join('');
+      render();
+    })
+    .catch(e => {
+      document.querySelector('#tablewrap').innerHTML = '<div class="empty">Failed to load records.json: ' + esc(e.message) + '</div>';
+    });
+</script>
+</body>
+</html>
