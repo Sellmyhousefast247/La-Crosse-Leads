@@ -1,11 +1,31 @@
 {
-  "generated": "2026-04-27",
+  "generated": "2026-04-28",
   "lookback_days": 7,
-  "date_from": "2026-04-20",
-  "date_to": "2026-04-27",
-  "total": 53,
-  "enriched": 15,
+  "date_from": "2026-04-21",
+  "date_to": "2026-04-28",
+  "total": 43,
+  "enriched": 11,
   "records": [
+    {
+      "case_no": "2026CV000224",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "OneMain Financial Group, LLC",
+      "dob": "",
+      "caption": "OneMain Financial Group, LLC vs. CRYSTAL M BEDFORD",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000224&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Foreclosure",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)",
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 70
+    },
     {
       "case_no": "2026CV000210",
       "filing_date": "2026-04-22",
@@ -27,22 +47,30 @@
       "seller_score": 70
     },
     {
-      "case_no": "2026CV000207",
-      "filing_date": "2026-04-20",
+      "case_no": "2026PR000062",
+      "filing_date": "2026-04-27",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Freedom Mortgage Corporation",
-      "dob": "",
-      "caption": "Freedom Mortgage Corporation vs. Kimberly K Domingue, Albert J Domingue, Altra Federal Credit Union, Kwik Trip, Inc. et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000207&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
+      "name": "Clark, Kimberly",
+      "dob": "1970-01",
+      "caption": "In the Estate of Kimberly Clark",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000062&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
       "flags": [
-        "Bank plaintiff (likely foreclosure)",
-        "LLC / corporate party"
+        "Probate / estate"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 70
+      "property_address": "918 JOHNSON ST",
+      "mailing_address": "1207 RED CEDAR CT",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-30015-110",
+      "owner_of_record": "CLARK, KIMBERLY A",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 60
     },
     {
       "case_no": "2026PR000061",
@@ -71,155 +99,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026PR000059",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Lueck, Allen L.",
-      "dob": "1954-05",
-      "caption": "In the Estate of Allen L. Lueck",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000059&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "N912 JUSTIN RD",
-      "mailing_address": "N912 JUSTIN RD",
-      "property_city": "Shelby",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Shelby",
-      "parcel_id": "11-01796-002",
-      "owner_of_record": "LUECK, ALLEN L",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000058",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Lonkoski, Roxanne A.",
-      "dob": "1947-06",
-      "caption": "In the Estate of Roxanne A. Lonkoski",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000058&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "3066 LINDEN DR",
-      "mailing_address": "3066 LINDEN DR",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-40371-050",
-      "owner_of_record": "LONKOSKI, ROXANNE A",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000057",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Felt, Walter C.",
-      "dob": "1938-02",
-      "caption": "In the Estate of Walter C. Felt",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000057&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "649 WINTER ST",
-      "mailing_address": "649 WINTER ST",
-      "property_city": "Onalaska",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of Onalaska",
-      "parcel_id": "18-03925-000",
-      "owner_of_record": "FELT (LE), WALTER C",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000056",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Murphy, Steven C.",
-      "dob": "1956-02",
-      "caption": "In the Estate of Steven C. Murphy",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000056&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "1711 CHARLES ST",
-      "mailing_address": "1711 CHARLES ST",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-10120-060",
-      "owner_of_record": "MURPHY, STEVEN C",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000055",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Kortness, Deborah Anne",
-      "dob": "1960-06",
-      "caption": "In the Estate of Deborah Anne Kortness",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000055&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "W5549 SOUTHDALE DR",
-      "mailing_address": "W5549 SOUTHDALE DR",
-      "property_city": "Shelby",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Shelby",
-      "parcel_id": "11-02508-000",
-      "owner_of_record": "KORTNESS-STAPLES SURVIVORS TRUST, SUSAN",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026SC000555",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Capital One, N.A., Successor By Merger To Discover Bank",
-      "dob": "",
-      "caption": "Capital One, N.A., Successor By Merger To Discover Bank vs. Rahn Molling",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000555&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 60
-    },
-    {
       "case_no": "2026PR000060",
       "filing_date": "2026-04-22",
       "county": "La Crosse",
@@ -237,6 +116,173 @@
       "property_address": "",
       "address_source": "",
       "seller_score": 55
+    },
+    {
+      "case_no": "2026CV000223",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "J.G. Wentworth Originations, LLC",
+      "dob": "",
+      "caption": "J.G. Wentworth Originations, LLC vs. None",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000223&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026CV000222",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "DuraTech Industries, Inc.",
+      "dob": "",
+      "caption": "DuraTech Industries, Inc. vs. Zachary Fritz et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000222&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026CV000221",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "HARLEY-DAVIDSON CREDIT CORP.",
+      "dob": "",
+      "caption": "HARLEY-DAVIDSON CREDIT CORP. vs. MARCOS MONTALVO RAZO",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000221&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026CV000220",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "HARLEY-DAVIDSON CREDIT CORP.",
+      "dob": "",
+      "caption": "HARLEY-DAVIDSON CREDIT CORP. vs. TRAVIS MCGEE",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000220&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000590",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. DAWN D CARLEY-FUNK",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000590&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000589",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. TERRY SUBBERT",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000589&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000588",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. SHELLY R ROE",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000588&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000586",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Kathleen Loendorf",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000586&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026CV000219",
+      "filing_date": "2026-04-24",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Mayo Clinic Health System Southwest Wisconsin Region, Inc",
+      "dob": "",
+      "caption": "Mayo Clinic Health System Southwest Wisconsin Region, Inc vs. City of Onalaska",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000219&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
     },
     {
       "case_no": "2026SC000585",
@@ -457,191 +503,28 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026CV000208",
-      "filing_date": "2026-04-20",
+      "case_no": "2026CV000225",
+      "filing_date": "2026-04-27",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Heights Finance Corporation",
+      "name": "Cox, Maria Rosa",
       "dob": "",
-      "caption": "Heights Finance Corporation vs. Eric S Faas",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000208&countyNo=32",
+      "caption": "Maria Rosa Cox vs. Aaron Ames",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000225&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000566",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. Adam P. Wallace",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000566&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000565",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Tri-State  Ambulance Inc",
-      "dob": "",
-      "caption": "Tri-State  Ambulance Inc vs. Richard S. Osweiler",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000565&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000564",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Tri-State  Ambulance Inc",
-      "dob": "",
-      "caption": "Tri-State  Ambulance Inc vs. Jean E. Obrian",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000564&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000563",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. Jason W. Blum et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000563&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000562",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc et al vs. Sarah M. Burnette et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000562&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000560",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Tri-State  Ambulance Inc",
-      "dob": "",
-      "caption": "Tri-State  Ambulance Inc et al vs. Philip Mullen",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000560&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000558",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. Xor Vue et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000558&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000557",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. Kiri A. Dorn et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000557&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000554",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Lvnv Funding Llc",
-      "dob": "",
-      "caption": "Lvnv Funding Llc vs. Lisa Boehme",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000554&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000553",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Lvnv Funding Llc",
-      "dob": "",
-      "caption": "Lvnv Funding Llc vs. Jordan Miracola",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000553&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
+      "property_address": "516 PRALLE RD",
+      "mailing_address": "516 PRALLE RD",
+      "property_city": "Onalaska",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of Onalaska",
+      "parcel_id": "18-03570-049",
+      "owner_of_record": "COX, MARGARET",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
       "case_no": "2026CV000218",
@@ -836,28 +719,21 @@
       "seller_score": 35
     },
     {
-      "case_no": "2026SC000548",
-      "filing_date": "2026-04-20",
+      "case_no": "2026SC000587",
+      "filing_date": "2026-04-27",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Netzer, Benjamin Evan",
+      "name": "Housing Authority of the City of La Crosse",
       "dob": "",
-      "caption": "Benjamin Evan Netzer vs. Mike Augelli",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000548&countyNo=32",
+      "caption": "Housing Authority of the City of La Crosse vs. Fleshell Fahy-Barnes",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000587&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "703 FANTA REED RD",
-      "mailing_address": "703 FANTA REED RD",
-      "property_city": "Campbell",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Campbell",
-      "parcel_id": "04-02070-000",
-      "owner_of_record": "NETZER, BENJAMIN E",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 35
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
     },
     {
       "case_no": "2026CV000217",
@@ -974,72 +850,6 @@
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
       "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000211",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Holeyfield, Marchun Burks, Jr",
-      "dob": "1996-05",
-      "caption": "Petitioner vs. Marchun Burks Holeyfield Jr",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000211&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000206",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Steele, Andrea Kay",
-      "dob": "1983-02",
-      "caption": "Andrea Steele vs. Jeremy Morgan",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000206&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000561",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Waterfront Family Dentistry dba Paul Himmler DDS",
-      "dob": "",
-      "caption": "Waterfront Family Dentistry dba Paul Himmler DDS vs. Daniel Dagendash",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000561&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000559",
-      "filing_date": "2026-04-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Drs Anderson & Durtsche LTD",
-      "dob": "",
-      "caption": "Drs Anderson & Durtsche LTD vs. Ryan Hernandez",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000559&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
       "seller_score": 30
     }
   ]
