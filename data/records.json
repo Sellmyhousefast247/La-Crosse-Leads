@@ -1,11 +1,31 @@
 {
-  "generated": "2026-04-28",
+  "generated": "2026-04-29",
   "lookback_days": 7,
-  "date_from": "2026-04-21",
-  "date_to": "2026-04-28",
-  "total": 43,
+  "date_from": "2026-04-22",
+  "date_to": "2026-04-29",
+  "total": 47,
   "enriched": 11,
   "records": [
+    {
+      "case_no": "2026CV000227",
+      "filing_date": "2026-04-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PennyMac Loan Services, LLC",
+      "dob": "",
+      "caption": "PennyMac Loan Services, LLC vs. Vyrna M. Canino-Corelli, Federal Home Loan Bank of Chicago, State Bank Financial et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000227&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Foreclosure",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)",
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 70
+    },
     {
       "case_no": "2026CV000224",
       "filing_date": "2026-04-27",
@@ -27,6 +47,24 @@
       "seller_score": 70
     },
     {
+      "case_no": "2026SC000591",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "FINWISE BANK c/o Markoff Law LLC",
+      "dob": "",
+      "caption": "FINWISE BANK c/o Markoff Law LLC vs. KATHY NEUMAN",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000591&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)",
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 70
+    },
+    {
       "case_no": "2026CV000210",
       "filing_date": "2026-04-22",
       "county": "La Crosse",
@@ -45,6 +83,23 @@
       "property_address": "",
       "address_source": "",
       "seller_score": 70
+    },
+    {
+      "case_no": "2026CV000228",
+      "filing_date": "2026-04-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Altra Federal Credit Union",
+      "dob": "",
+      "caption": "Altra Federal Credit Union vs. Christine L. McAlear",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000228&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Foreclosure",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 60
     },
     {
       "case_no": "2026PR000062",
@@ -99,6 +154,25 @@
       "seller_score": 60
     },
     {
+      "case_no": "2026PR000063",
+      "filing_date": "2026-04-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Schielka, Luke J.",
+      "dob": "1996-01",
+      "caption": "In the Estate of Luke J. Schielka",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000063&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 55
+    },
+    {
       "case_no": "2026PR000060",
       "filing_date": "2026-04-22",
       "county": "La Crosse",
@@ -116,6 +190,80 @@
       "property_address": "",
       "address_source": "",
       "seller_score": 55
+    },
+    {
+      "case_no": "2026CV000229",
+      "filing_date": "2026-04-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Rocky Dell, LLC",
+      "dob": "",
+      "caption": "Rocky Dell, LLC vs. Moonstone Meadow LLC et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000229&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026CV000226",
+      "filing_date": "2026-04-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Northern States Power Company",
+      "dob": "",
+      "caption": "Northern States Power Company vs. Metro Fibernet,  Fogelson Telecom LLC & Hartford Underwriters Insurance Company",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000226&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000594",
+      "filing_date": "2026-04-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Gleason, Jennifer Lynn",
+      "dob": "",
+      "caption": "SPEF IX, Arrowhead Apartments and Townhomes, LLC vs. Jennifer Lynn Gleason et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000594&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000593",
+      "filing_date": "2026-04-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "SPEF IX, Arrowhead Apartments and Townhomes, LLC",
+      "dob": "",
+      "caption": "SPEF IX, Arrowhead Apartments and Townhomes, LLC vs. Julie K Meil",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000593&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
     },
     {
       "case_no": "2026CV000223",
@@ -486,23 +634,6 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026SC000570",
-      "filing_date": "2026-04-21",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Lopez V Inc.",
-      "dob": "",
-      "caption": "Lopez V Inc. vs. Said Amanzai et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000570&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
       "case_no": "2026CV000225",
       "filing_date": "2026-04-27",
       "county": "La Crosse",
@@ -719,6 +850,23 @@
       "seller_score": 35
     },
     {
+      "case_no": "2026SC000592",
+      "filing_date": "2026-04-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Linda & Richard Seidel dba RJ & R Rentals of La Crosse",
+      "dob": "",
+      "caption": "Linda & Richard Seidel dba RJ & R Rentals of La Crosse vs. Heidi Stach et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000592&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
+    },
+    {
       "case_no": "2026SC000587",
       "filing_date": "2026-04-27",
       "county": "La Crosse",
@@ -778,74 +926,6 @@
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000212&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000209",
-      "filing_date": "2026-04-21",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Mader, Roseanne Mae",
-      "dob": "",
-      "caption": "In RE: the Birth Certificate of Rosanne Mae Mader",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000209&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000572",
-      "filing_date": "2026-04-21",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Bluffview Apartments",
-      "dob": "",
-      "caption": "Bluffview Apartments vs. Chase Arends",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000572&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000571",
-      "filing_date": "2026-04-21",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "The Residences at 843 Oak",
-      "dob": "",
-      "caption": "The Residences at 843 Oak vs. Torin Thomas et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000571&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000569",
-      "filing_date": "2026-04-21",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Halfway Creek Apartments",
-      "dob": "",
-      "caption": "Halfway Creek Apartments vs. Michelle Gerbig et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000569&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
