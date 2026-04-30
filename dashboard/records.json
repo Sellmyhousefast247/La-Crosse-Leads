@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-29",
+  "generated": "2026-04-30",
   "lookback_days": 7,
-  "date_from": "2026-04-22",
-  "date_to": "2026-04-29",
-  "total": 47,
-  "enriched": 11,
+  "date_from": "2026-04-23",
+  "date_to": "2026-04-30",
+  "total": 46,
+  "enriched": 10,
   "records": [
     {
       "case_no": "2026CV000227",
@@ -65,24 +65,23 @@
       "seller_score": 70
     },
     {
-      "case_no": "2026CV000210",
-      "filing_date": "2026-04-22",
+      "case_no": "2026CV000230",
+      "filing_date": "2026-04-28",
       "county": "La Crosse",
       "status": "Open",
-      "name": "PennyMac Loan Services, LLC",
+      "name": "Capital One, N.A., Successor By Merger To Discover Bank",
       "dob": "",
-      "caption": "PennyMac Loan Services, LLC vs. Troy F. Walker, Plaza Services, LLC,  LVNV Funding LLC et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000210&countyNo=32",
+      "caption": "Capital One, N.A., Successor By Merger To Discover Bank vs. Ann E Miller",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000230&countyNo=32",
       "case_type": "CV",
       "lead_type": "Foreclosure",
       "flags": [
-        "Bank plaintiff (likely foreclosure)",
-        "LLC / corporate party"
+        "Bank plaintiff (likely foreclosure)"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
       "address_source": "",
-      "seller_score": 70
+      "seller_score": 60
     },
     {
       "case_no": "2026CV000228",
@@ -173,23 +172,78 @@
       "seller_score": 55
     },
     {
-      "case_no": "2026PR000060",
-      "filing_date": "2026-04-22",
+      "case_no": "2026SC000600",
+      "filing_date": "2026-04-29",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Every, John LeRoy",
-      "dob": "1958-11",
-      "caption": "In the Estate of John LeRoy Every",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000060&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
+      "name": "Cash Link USA LLC",
+      "dob": "",
+      "caption": "Cash Link USA LLC vs. DANTE WILLIAMS",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000600&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
       "flags": [
-        "Probate / estate"
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000599",
+      "filing_date": "2026-04-29",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. KANE A MARTINSON",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000599&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
       "address_source": "",
-      "seller_score": 55
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000598",
+      "filing_date": "2026-04-29",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. THOMAS R FRANZINI",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000598&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000597",
+      "filing_date": "2026-04-29",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. CANDACE M PASH",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000597&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
     },
     {
       "case_no": "2026CV000229",
@@ -225,6 +279,44 @@
         "LLC / corporate party"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000596",
+      "filing_date": "2026-04-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Mia Lee",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000596&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000595",
+      "filing_date": "2026-04-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "National Management, LLC",
+      "dob": "",
+      "caption": "National Management, LLC et al vs. Danielle Lewis et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000595&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
       "seller_score": 40
     },
     {
@@ -560,80 +652,6 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026CV000213",
-      "filing_date": "2026-04-22",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Paxton, Thomas",
-      "dob": "",
-      "caption": "Thomas Paxton et al vs. Midwest Industrial Fuels, Inc. & Alliant Energy Corporation",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000213&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000574",
-      "filing_date": "2026-04-22",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc.",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc. vs. Elizabeth Cardinal",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000574&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000573",
-      "filing_date": "2026-04-22",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc.",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc. vs. Niles Charlson",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000573&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000567",
-      "filing_date": "2026-04-22",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Unwind Living LLC",
-      "dob": "",
-      "caption": "Unwind Living LLC vs. Jesse Larson",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000567&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
       "case_no": "2026CV000225",
       "filing_date": "2026-04-27",
       "county": "La Crosse",
@@ -826,30 +844,6 @@
       "seller_score": 35
     },
     {
-      "case_no": "2026SC000568",
-      "filing_date": "2026-04-22",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Dymond, Brandon Scott",
-      "dob": "",
-      "caption": "Brandon Scott Dymond vs. Huberts Auto Care",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000568&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "302 4TH AVE N",
-      "mailing_address": "302 4TH AVE N",
-      "property_city": "Onalaska",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of Onalaska",
-      "parcel_id": "18-00271-000",
-      "owner_of_record": "DYMOND, BRANDON S",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 35
-    },
-    {
       "case_no": "2026SC000592",
       "filing_date": "2026-04-28",
       "county": "La Crosse",
@@ -907,23 +901,6 @@
       "dob": "",
       "caption": "In Re: the Birth Certificate of Malia Gray Williams",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000216&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000212",
-      "filing_date": "2026-04-22",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Dickson, Charles",
-      "dob": "",
-      "caption": "Charles Dickson, Mark Dickson, Stephanie Dickson vs Joshua Theobald & State Farm Mutual Automobile Insurance Company",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000212&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
       "flags": [],
