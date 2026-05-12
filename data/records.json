@@ -1,10 +1,10 @@
 {
-  "generated": "2026-05-11",
+  "generated": "2026-05-12",
   "lookback_days": 7,
-  "date_from": "2026-05-04",
-  "date_to": "2026-05-11",
-  "total": 62,
-  "enriched": 9,
+  "date_from": "2026-05-05",
+  "date_to": "2026-05-12",
+  "total": 57,
+  "enriched": 10,
   "records": [
     {
       "case_no": "2026CV000239",
@@ -25,6 +25,58 @@
       "property_address": "",
       "address_source": "",
       "seller_score": 70
+    },
+    {
+      "case_no": "2026PR000071",
+      "filing_date": "2026-05-11",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Bathke, Edward A., Jr.",
+      "dob": "1966-01",
+      "caption": "In the Estate of Edward A. Bathke Jr.",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000071&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "2018 JACKSON ST",
+      "mailing_address": "2018 JACKSON ST",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-40042-110",
+      "owner_of_record": "BATHKE-MANKE, REBECCA",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 60
+    },
+    {
+      "case_no": "2026PR000070",
+      "filing_date": "2026-05-11",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Witt, Leata M.",
+      "dob": "1936-01",
+      "caption": "In the Estate of Leata M. Witt",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000070&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "W5327 BOMA RD",
+      "mailing_address": "W5327 BOMA RD",
+      "property_city": "Shelby",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "Town Of Shelby",
+      "parcel_id": "11-00324-005",
+      "owner_of_record": "WITT, LEAH R",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 60
     },
     {
       "case_no": "2026PR000068",
@@ -110,32 +162,6 @@
         "Bank plaintiff (likely foreclosure)"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000065",
-      "filing_date": "2026-05-04",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Scholz, Julie L.",
-      "dob": "1946-09",
-      "caption": "In the Estate of Julie L. Scholz",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000065&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "512 CALEDONIA ST",
-      "mailing_address": "8480 TRISTA LN E",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-10045-130",
-      "owner_of_record": "SCHOLZ, JULIE L",
-      "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 60
     },
     {
@@ -698,116 +724,6 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026SC000624",
-      "filing_date": "2026-05-04",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Mariner Finance, LLC",
-      "dob": "",
-      "caption": "Mariner Finance, LLC vs. Nicole Rose",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000624&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000623",
-      "filing_date": "2026-05-04",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "La Crosse Estates LLC",
-      "dob": "",
-      "caption": "La Crosse Estates LLC vs. April Berzinski",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000623&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000621",
-      "filing_date": "2026-05-04",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Trail Destinations, LLC",
-      "dob": "",
-      "caption": "Trail Destinations, LLC vs. Hannah Carson",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000621&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000620",
-      "filing_date": "2026-05-04",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Kingsfield MHC LLC",
-      "dob": "",
-      "caption": "Kingsfield MHC LLC vs. Dana Peplinski",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000620&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000619",
-      "filing_date": "2026-05-04",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
-      "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. ROLF MOE",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000619&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000618",
-      "filing_date": "2026-05-04",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
-      "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. JAMES R MUNS",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000618&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
       "case_no": "2026CV000240",
       "filing_date": "2026-05-08",
       "county": "La Crosse",
@@ -838,7 +754,7 @@
       "status": "Open",
       "name": "Luke, Brittany",
       "dob": "",
-      "caption": "Brittany Luke et al vs. Security Self Storage",
+      "caption": "Brittany Luke & Alex Mroch vs. Security Self Storage",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000653&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
@@ -875,7 +791,7 @@
       "property_zip": "",
       "municipality": "Town Of Shelby",
       "parcel_id": "11-02239-001",
-      "owner_of_record": "SEDLMAYR, KATHERINE J",
+      "owner_of_record": "SEDLMAYR, SHANE M",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 35
     },
@@ -950,6 +866,40 @@
       "owner_of_record": "JACKSON, TASHYRA T",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 35
+    },
+    {
+      "case_no": "2026SC000671",
+      "filing_date": "2026-05-11",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Phillips, Rose M.",
+      "dob": "",
+      "caption": "Rose M. Phillips vs. Christa Olson",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000671&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
+    },
+    {
+      "case_no": "2026SC000670",
+      "filing_date": "2026-05-11",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "RPI Management",
+      "dob": "",
+      "caption": "RPI Management vs. Lori J Smith, Leanne Smith, & Daniel Triplett",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000670&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
     },
     {
       "case_no": "2026SC000666",
@@ -1124,40 +1074,6 @@
       "dob": "",
       "caption": "Capital One, N.A. vs. Rachel Powers",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000637&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000236",
-      "filing_date": "2026-05-04",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "O'Connor, Barbara Ann",
-      "dob": "1967-03",
-      "caption": "In Re: the Name Change of Barbara Ann O'Connor",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000236&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000622",
-      "filing_date": "2026-05-04",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Mcguire, Jerrold",
-      "dob": "",
-      "caption": "Jamie Plomedahl vs. Jerrold Mcguire & Teresa Pruitt",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000622&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [],
