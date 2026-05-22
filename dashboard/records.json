@@ -1,10 +1,10 @@
 {
-  "generated": "2026-05-21",
+  "generated": "2026-05-22",
   "lookback_days": 7,
-  "date_from": "2026-05-14",
-  "date_to": "2026-05-21",
-  "total": 48,
-  "enriched": 15,
+  "date_from": "2026-05-15",
+  "date_to": "2026-05-22",
+  "total": 41,
+  "enriched": 13,
   "records": [
     {
       "case_no": "2026CV000249",
@@ -239,87 +239,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026PR000072",
-      "filing_date": "2026-05-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Marini, Frederick A.",
-      "dob": "1952-02",
-      "caption": "In the Estate of Frederick A. Marini",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000072&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "N9674 STATE ROAD 108",
-      "mailing_address": "N9674 STATE ROAD 108",
-      "property_city": "Farmington",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Farmington",
-      "parcel_id": "05-00056-003",
-      "owner_of_record": "MARINI, FREDERICK",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026SC000686",
-      "filing_date": "2026-05-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Capital One, N.A., Successor By Merger To Discover Bank",
-      "dob": "",
-      "caption": "Capital One, N.A., Successor By Merger To Discover Bank vs. Jamie Ikert",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000686&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026SC000683",
-      "filing_date": "2026-05-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Fifth Third Bank, N.A. c/o Zwicker and Associates, P.C.",
-      "dob": "",
-      "caption": "Fifth Third Bank, N.A. c/o Zwicker and Associates, P.C. vs. Robert G Weber",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000683&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026SC000680",
-      "filing_date": "2026-05-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Citizens State Bank",
-      "dob": "",
-      "caption": "Citizens State Bank vs. Julia R Touchet",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000680&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 60
-    },
-    {
       "case_no": "2026CV000250",
       "filing_date": "2026-05-19",
       "county": "La Crosse",
@@ -424,32 +343,6 @@
       "seller_score": 45
     },
     {
-      "case_no": "2026SC000684",
-      "filing_date": "2026-05-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Collective on Fourth, LLC",
-      "dob": "",
-      "caption": "Collective on Fourth, LLC vs. Nickky Basley",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000684&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "1123 4TH ST S",
-      "mailing_address": "403 JACKSON ST STE 101",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-30088-120",
-      "owner_of_record": "COLLECTIVE ON FOURTH LLC",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 45
-    },
-    {
       "case_no": "2026CV000251",
       "filing_date": "2026-05-20",
       "county": "La Crosse",
@@ -460,6 +353,44 @@
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000251&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000716",
+      "filing_date": "2026-05-20",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Sara Schulz",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000716&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000715",
+      "filing_date": "2026-05-20",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Crown Asset Management, LLC",
+      "dob": "",
+      "caption": "Crown Asset Management, LLC vs. Amos Washington",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000715&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
       "flags": [
         "LLC / corporate party"
       ],
@@ -636,61 +567,6 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026CV000244",
-      "filing_date": "2026-05-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "The Estate of Ernest E. Pintarelli",
-      "dob": "",
-      "caption": "The Estate of Ernest E. Pintarelli et al vs. Continental Casualty Company d/b/a CNA Insurance Com...et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000244&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000687",
-      "filing_date": "2026-05-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Christopher L Schaefer",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000687&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000685",
-      "filing_date": "2026-05-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Christopher A White",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000685&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
       "case_no": "2026SC000701",
       "filing_date": "2026-05-19",
       "county": "La Crosse",
@@ -809,6 +685,23 @@
       "owner_of_record": "XIONG, NENG V",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 35
+    },
+    {
+      "case_no": "2026SC000717",
+      "filing_date": "2026-05-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Great River Cremation",
+      "dob": "",
+      "caption": "Great River Cremation vs. Liza Melcher",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000717&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
     },
     {
       "case_no": "2026CV000252",
@@ -942,38 +835,6 @@
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
       "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000682",
-      "filing_date": "2026-05-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Munson Realty",
-      "dob": "",
-      "caption": "Munson Realty vs. Barbara Harmon & Rebekah Rislov",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000682&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000681",
-      "filing_date": "2026-05-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "State Farm Mutual Automobile Insurance Company",
-      "dob": "",
-      "caption": "State Farm Mutual Automobile Insurance Company vs. Lance T. Ubersox",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000681&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
       "seller_score": 30
     }
   ]
