@@ -1,10 +1,10 @@
 {
-  "generated": "2026-05-22",
+  "generated": "2026-05-23",
   "lookback_days": 7,
-  "date_from": "2026-05-15",
-  "date_to": "2026-05-22",
-  "total": 41,
-  "enriched": 13,
+  "date_from": "2026-05-16",
+  "date_to": "2026-05-23",
+  "total": 43,
+  "enriched": 8,
   "records": [
     {
       "case_no": "2026CV000249",
@@ -168,77 +168,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026PR000074",
-      "filing_date": "2026-05-15",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Mayer, James Alan",
-      "dob": "1963-07",
-      "caption": "In the Estate of James Alan Mayer",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000074&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "620 MEIER LN",
-      "mailing_address": "620 MEIER LN",
-      "property_city": "Onalaska",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of Onalaska",
-      "parcel_id": "18-03480-001",
-      "owner_of_record": "MAYER, JAMES A",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000073",
-      "filing_date": "2026-05-15",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Sprain, Arden",
-      "dob": "1938-12",
-      "caption": "In the Estate of Arden Sprain",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000073&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "507 PROSPECT ST",
-      "mailing_address": "507 PROSPECT ST",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-10213-040",
-      "owner_of_record": "SPRAIN, ARDEN",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026SC000691",
-      "filing_date": "2026-05-15",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "American Express National Bank c/o Zwicker & Associates, PC",
-      "dob": "",
-      "caption": "American Express National Bank c/o Zwicker & Associates, PC vs. ISAAC PETERSON",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000691&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 60
-    },
-    {
       "case_no": "2026CV000250",
       "filing_date": "2026-05-19",
       "county": "La Crosse",
@@ -317,30 +246,157 @@
       "seller_score": 45
     },
     {
-      "case_no": "2026CV000245",
-      "filing_date": "2026-05-15",
+      "case_no": "2026SC000727",
+      "filing_date": "2026-05-22",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Nau, Connie",
+      "name": "Niebuhr Plumbing & Heating Company Inc",
       "dob": "",
-      "caption": "Connie Nau & Patrick Pruse vs. Logistics Development Group, LLC, Gerrard-Hoeschler, Inc. & Dave Snyder",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000245&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
+      "caption": "Niebuhr Plumbing & Heating Company Inc vs. Erin Gensch",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000727&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
       "flags": [
         "LLC / corporate party"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "613 RIDGEVIEW DR",
-      "mailing_address": "613 RIDGEVIEW DR",
-      "property_city": "Onalaska",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of Onalaska",
-      "parcel_id": "18-02726-000",
-      "owner_of_record": "NAU, CONNIE S",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 45
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000726",
+      "filing_date": "2026-05-22",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Gundersen Lutheran Admin Services Inc",
+      "dob": "",
+      "caption": "Gundersen Lutheran Admin Services Inc vs. Mathew J. Flaschberger",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000726&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000725",
+      "filing_date": "2026-05-22",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Gundersen Lutheran Admin Services Inc",
+      "dob": "",
+      "caption": "Gundersen Lutheran Admin Services Inc vs. Danielle M. Fitzpatrick et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000725&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000724",
+      "filing_date": "2026-05-22",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Gundersen Lutheran Admin Services Inc",
+      "dob": "",
+      "caption": "Gundersen Lutheran Admin Services Inc vs. Ashley M. Anderson et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000724&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000723",
+      "filing_date": "2026-05-22",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Gundersen Lutheran Admin Services Inc",
+      "dob": "",
+      "caption": "Gundersen Lutheran Admin Services Inc vs. Nathan C. Brown",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000723&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000722",
+      "filing_date": "2026-05-22",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Gundersen Lutheran Admin Services Inc",
+      "dob": "",
+      "caption": "Gundersen Lutheran Admin Services Inc vs. Sarah D. Anderson",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000722&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000720",
+      "filing_date": "2026-05-22",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Tri-State  Ambulance Inc",
+      "dob": "",
+      "caption": "Tri-State  Ambulance Inc vs. Nathan Bilbrey",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000720&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000719",
+      "filing_date": "2026-05-22",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Gundersen Lutheran Admin Services Inc",
+      "dob": "",
+      "caption": "Gundersen Lutheran Admin Services Inc vs. Stefanie A. Shurson",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000719&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000718",
+      "filing_date": "2026-05-22",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Gundersen Lutheran Admin Services Inc",
+      "dob": "",
+      "caption": "Gundersen Lutheran Admin Services Inc vs. Heidi Wolfe et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000718&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
     },
     {
       "case_no": "2026CV000251",
@@ -639,52 +695,19 @@
       "seller_score": 35
     },
     {
-      "case_no": "2026SC000690",
-      "filing_date": "2026-05-15",
+      "case_no": "2026SC000721",
+      "filing_date": "2026-05-22",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Clarkin, Charles",
-      "dob": "1962-09",
-      "caption": "Charles Clarkin vs. Careen Mclees & Morgan Mclees",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000690&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "508 9TH ST N",
-      "mailing_address": "207 8TH ST S",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-20150-110",
-      "owner_of_record": "CLARKIN, CHARLES",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 35
-    },
-    {
-      "case_no": "2026SC000688",
-      "filing_date": "2026-05-15",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Xiong, Neng",
+      "name": "Midwest Gas Company",
       "dob": "",
-      "caption": "La Crosse Rental Properties vs. Neng Xiong",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000688&countyNo=32",
+      "caption": "Midwest Gas Company vs. Catherine McNamara et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000721&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "2254 15TH ST S",
-      "mailing_address": "2254 15TH ST S",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-50035-120",
-      "owner_of_record": "XIONG, NENG V",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 35
+      "seller_score": 30
     },
     {
       "case_no": "2026SC000717",
@@ -801,40 +824,6 @@
       "lead_type": "Small Claims",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000247",
-      "filing_date": "2026-05-15",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Clark, Grace Viola",
-      "dob": "",
-      "caption": "In Re: the Name Change of Grace Viola Clark",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000247&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000689",
-      "filing_date": "2026-05-15",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Capital One, N.A.",
-      "dob": "",
-      "caption": "Capital One, N.A. vs. Amber E Grube",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000689&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
       "seller_score": 30
     }
   ]
