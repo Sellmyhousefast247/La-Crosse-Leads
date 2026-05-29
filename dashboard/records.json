@@ -1,11 +1,31 @@
 {
-  "generated": "2026-05-28",
+  "generated": "2026-05-29",
   "lookback_days": 7,
-  "date_from": "2026-05-21",
-  "date_to": "2026-05-28",
-  "total": 29,
-  "enriched": 7,
+  "date_from": "2026-05-22",
+  "date_to": "2026-05-29",
+  "total": 32,
+  "enriched": 6,
   "records": [
+    {
+      "case_no": "2026CV000259",
+      "filing_date": "2026-05-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PennyMac Loan Services, LLC",
+      "dob": "",
+      "caption": "PennyMac Loan Services, LLC vs. Paul T. Moore et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000259&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Foreclosure",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)",
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 70
+    },
     {
       "case_no": "2026PR000081",
       "filing_date": "2026-05-27",
@@ -131,66 +151,14 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026PR000079",
-      "filing_date": "2026-05-21",
+      "case_no": "2026PR000082",
+      "filing_date": "2026-05-28",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Becker, Orval E., Jr.",
-      "dob": "1944-06",
-      "caption": "In the Estate of Orval E. Becker Jr.",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000079&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "1913 LOMBARD CT",
-      "mailing_address": "N5925 COUNTY ROAD M",
-      "property_city": "Campbell",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Campbell",
-      "parcel_id": "04-00120-002",
-      "owner_of_record": "BECKER JR, ORVAL E",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000077",
-      "filing_date": "2026-05-21",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Pagel, Sandra L.",
-      "dob": "1968-03",
-      "caption": "In the Estate of Sandra L. Pagel",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000077&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "W4911 SCOTT DR",
-      "mailing_address": "W4911 SCOTT DR",
-      "property_city": "Shelby",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Shelby",
-      "parcel_id": "11-00239-000",
-      "owner_of_record": "PAGEL, SANDRA L",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000078",
-      "filing_date": "2026-05-21",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Wells, Dorothy A.",
-      "dob": "1946-07",
-      "caption": "In the Estate of Dorothy A. Wells",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000078&countyNo=32",
+      "name": "Duncancson, Ralph O., Jr.",
+      "dob": "1925-12",
+      "caption": "In the Estate of Ralph O. Duncancson Jr.",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000082&countyNo=32",
       "case_type": "PR",
       "lead_type": "Probate",
       "flags": [
@@ -200,6 +168,82 @@
       "property_address": "",
       "address_source": "",
       "seller_score": 55
+    },
+    {
+      "case_no": "2026SC000740",
+      "filing_date": "2026-05-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Forsythe Finance, LLC",
+      "dob": "",
+      "caption": "Forsythe Finance, LLC vs. JENNIFER LINDSAY",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000740&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000738",
+      "filing_date": "2026-05-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Emily Koresh",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000738&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000737",
+      "filing_date": "2026-05-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Sarah Otto",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000737&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000736",
+      "filing_date": "2026-05-27",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Mariner Finance, SII. Personal Finance Company LLC",
+      "dob": "",
+      "caption": "Mariner Finance, SII. Personal Finance Company LLC vs. MADELYNN M. SCHIFFER",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000736&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
     },
     {
       "case_no": "2026SC000727",
@@ -355,23 +399,28 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026SC000728",
-      "filing_date": "2026-05-21",
+      "case_no": "2026CV000258",
+      "filing_date": "2026-05-27",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Makepeace Engineering, LLC",
+      "name": "Boswell, Amanda",
       "dob": "",
-      "caption": "Makepeace Engineering, LLC vs. West Coast Development, LLC",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000728&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "caption": "Voluntary Amortization of Debts of Amanda Boswell",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000258&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
+      "property_address": "607 FOREST VIEW DR",
+      "mailing_address": "607 FOREST VIEW DR",
+      "property_city": "Holmen",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "Village Of Holmen",
+      "parcel_id": "14-04581-000",
+      "owner_of_record": "BOSWELL, TAMMY J",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
       "case_no": "2026CV000256",
@@ -393,7 +442,7 @@
       "property_zip": "",
       "municipality": "Town Of Shelby",
       "parcel_id": "11-01183-000",
-      "owner_of_record": "PRZYBYLSKI, EMILY C",
+      "owner_of_record": "PRZYBYLSKI, BRIAN J",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 35
     },
@@ -444,6 +493,23 @@
       "owner_of_record": "HORMAN, TIMOTHY A",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 35
+    },
+    {
+      "case_no": "2026SC000739",
+      "filing_date": "2026-05-28",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Mayo Clinic",
+      "dob": "",
+      "caption": "Mayo Clinic vs. Jeanne Kay Stoeckly",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000739&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
     },
     {
       "case_no": "2026CV000257",
@@ -541,23 +607,6 @@
       "lead_type": "Small Claims",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000717",
-      "filing_date": "2026-05-21",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Great River Cremation",
-      "dob": "",
-      "caption": "Great River Cremation vs. Liza Melcher",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000717&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
       "seller_score": 30
     }
   ]
