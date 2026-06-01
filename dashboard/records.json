@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-31",
+  "generated": "2026-06-01",
   "lookback_days": 7,
-  "date_from": "2026-05-24",
-  "date_to": "2026-05-31",
+  "date_from": "2026-05-25",
+  "date_to": "2026-06-01",
   "total": 28,
   "enriched": 8,
   "records": [
@@ -375,7 +375,7 @@
       "property_zip": "",
       "municipality": "Town Of Shelby",
       "parcel_id": "11-01183-000",
-      "owner_of_record": "PRZYBYLSKI, EMILY C",
+      "owner_of_record": "PRZYBYLSKI, BRIAN J",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 35
     },
