@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-07",
+  "generated": "2026-06-08",
   "lookback_days": 7,
-  "date_from": "2026-05-31",
-  "date_to": "2026-06-07",
+  "date_from": "2026-06-01",
+  "date_to": "2026-06-08",
   "total": 46,
   "enriched": 21,
   "records": [
