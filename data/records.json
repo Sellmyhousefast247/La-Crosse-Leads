@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-08",
+  "generated": "2026-06-09",
   "lookback_days": 7,
-  "date_from": "2026-06-01",
-  "date_to": "2026-06-08",
-  "total": 46,
-  "enriched": 21,
+  "date_from": "2026-06-02",
+  "date_to": "2026-06-09",
+  "total": 41,
+  "enriched": 20,
   "records": [
     {
       "case_no": "2026SC000760",
@@ -31,6 +31,49 @@
       "owner_of_record": "WELLS FARGO BANK NA",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 65
+    },
+    {
+      "case_no": "2026PR000091",
+      "filing_date": "2026-06-05",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Martinez, Carmen M.",
+      "dob": "1939-07",
+      "caption": "In the Estate of Carmen M. Martinez",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000091&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "3203 35TH ST S",
+      "mailing_address": "3203 35TH ST S",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-50218-040",
+      "owner_of_record": "MARTINEZ, CARMEN M",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 60
+    },
+    {
+      "case_no": "2026SC000771",
+      "filing_date": "2026-06-05",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Altra Federal Credit Union",
+      "dob": "",
+      "caption": "Altra Federal Credit Union vs. Alysha K Suhr",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000771&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 60
     },
     {
       "case_no": "2026PR000090",
@@ -171,89 +214,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026CV000266",
-      "filing_date": "2026-06-01",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Capital One, N.A., successor by merger to Discover Bank",
-      "dob": "",
-      "caption": "Capital One, N.A., successor by merger to Discover Bank vs. Katrina Danielson",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000266&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000084",
-      "filing_date": "2026-06-01",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Helmreich, Roland L.",
-      "dob": "1941-08",
-      "caption": "In the Estate of Roland L. Helmreich",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000084&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "W7876 COUNTY ROAD Z",
-      "mailing_address": "W7876 COUNTY ROAD Z",
-      "property_city": "Onalaska",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Onalaska",
-      "parcel_id": "10-01490-000",
-      "owner_of_record": "HELMREICH, ROLAND",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000086",
-      "filing_date": "2026-06-01",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Johnson c/o GAL Kara Burgos, Saroya",
-      "dob": "",
-      "caption": "In the Estate of Tarianna Thompson",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000086&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 55
-    },
-    {
-      "case_no": "2026PR000085",
-      "filing_date": "2026-06-01",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Blomquist, Maureen F",
-      "dob": "1945-01",
-      "caption": "In the Estate of Maureen F Blomquist",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000085&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 55
-    },
-    {
       "case_no": "2026CV000267",
       "filing_date": "2026-06-02",
       "county": "La Crosse",
@@ -280,30 +240,21 @@
       "seller_score": 45
     },
     {
-      "case_no": "2026SC000746",
-      "filing_date": "2026-06-01",
+      "case_no": "2026SC000773",
+      "filing_date": "2026-06-08",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Arbanasi Properties, LLC",
+      "name": "CouleeCap Inc",
       "dob": "",
-      "caption": "Arbanasi Properties, LLC vs. Amber Kay Carr",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000746&countyNo=32",
+      "caption": "CouleeCap Inc vs. Alan Nagle",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000773&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [
         "LLC / corporate party"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "908 ISLAND ST",
-      "mailing_address": "PO BOX 3076",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-10291-060",
-      "owner_of_record": "ARBANASI PROPERTIES LLC",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 45
+      "seller_score": 40
     },
     {
       "case_no": "2026SC000769",
@@ -320,6 +271,25 @@
         "LLC / corporate party"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000772",
+      "filing_date": "2026-06-04",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Alden Parins",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000772&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
       "seller_score": 40
     },
     {
@@ -416,78 +386,28 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026SC000750",
-      "filing_date": "2026-06-01",
+      "case_no": "2026SC000770",
+      "filing_date": "2026-06-05",
       "county": "La Crosse",
       "status": "Open",
-      "name": "BCG Equities, LLC",
+      "name": "Hauswirth, Janice",
       "dob": "",
-      "caption": "BCG Equities, LLC vs. MARY ROBINSON",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000750&countyNo=32",
+      "caption": "Janice Hauswirth & JoAnn Neve vs. Tiffany Buckner",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000770&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000747",
-      "filing_date": "2026-06-01",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Unwind Living LLC",
-      "dob": "",
-      "caption": "Unwind Living LLC vs. Susan Knight",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000747&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000744",
-      "filing_date": "2026-06-01",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Clinton Bucher",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000744&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000743",
-      "filing_date": "2026-06-01",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Melissa Colvin",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000743&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
+      "property_address": "714 DIVISION ST",
+      "mailing_address": "510 MARKET ST",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-30069-120",
+      "owner_of_record": "HAUSWIRTH, JANICE L",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
       "case_no": "2026SC000768",
@@ -778,28 +698,19 @@
       "seller_score": 35
     },
     {
-      "case_no": "2026SC000748",
-      "filing_date": "2026-06-01",
+      "case_no": "2026CV000279",
+      "filing_date": "2026-06-08",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Yang, Khou",
+      "name": "",
       "dob": "",
-      "caption": "Khou Yang vs. Greg Hendricks, Angie Hendricks, & Seth Hendricks",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000748&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
+      "caption": "Petitioner vs. Vincent A Schaller",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000279&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "1306 7TH ST S",
-      "mailing_address": "W19970 ARDES LN",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-30012-030",
-      "owner_of_record": "YANG, KHOU",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 35
+      "seller_score": 30
     },
     {
       "case_no": "2026CV000277",
@@ -936,33 +847,16 @@
       "seller_score": 30
     },
     {
-      "case_no": "2026CV000265",
-      "filing_date": "2026-06-01",
+      "case_no": "2026CV000280",
+      "filing_date": "",
       "county": "La Crosse",
-      "status": "Open",
-      "name": "Heintz, Victor Kenneth",
+      "status": "",
+      "name": "",
       "dob": "",
-      "caption": "In Re: the Name Change of Victor Kenneth Heintz",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000265&countyNo=32",
+      "caption": "Case Sealed - Confidential Name Change",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000280&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000749",
-      "filing_date": "2026-06-01",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Nickelotti Real Estate",
-      "dob": "",
-      "caption": "Nickelotti Real Estate vs. Germain Al-Tahir & Charmae Ewerst",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000749&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
       "seller_score": 30
