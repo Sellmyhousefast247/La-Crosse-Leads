@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-03",
+  "generated": "2026-07-04",
   "lookback_days": 7,
-  "date_from": "2026-06-26",
-  "date_to": "2026-07-03",
-  "total": 62,
-  "enriched": 8,
+  "date_from": "2026-06-27",
+  "date_to": "2026-07-04",
+  "total": 44,
+  "enriched": 7,
   "records": [
     {
       "case_no": "2026CV000326",
@@ -306,44 +306,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026PR000110",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Wright, Jack",
-      "dob": "1934-05",
-      "caption": "In the Estate of Jack Wright",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000110&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 55
-    },
-    {
-      "case_no": "2026PR000109",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Tostrud, David S.",
-      "dob": "1941-04",
-      "caption": "In the Estate of David S. Tostrud",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000109&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 55
-    },
-    {
       "case_no": "2026SC000894",
       "filing_date": "2026-07-01",
       "county": "La Crosse",
@@ -452,214 +414,6 @@
       "dob": "",
       "caption": "Velocity Investments, LLC vs. Toua Xiong",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000887&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000865",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Kwik Trip, Inc",
-      "dob": "",
-      "caption": "Kwik Trip, Inc vs. TRACY MULLINER",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000865&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000864",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "NIEBUHR PLUMBING & HEATING COMPANY INC",
-      "dob": "",
-      "caption": "NIEBUHR PLUMBING & HEATING COMPANY INC vs. RAMONA MENDEZ & JUAN MENDEZ",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000864&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000863",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Tri-State  Ambulance Inc",
-      "dob": "",
-      "caption": "Tri-State  Ambulance Inc vs. MICHAEL R. SCOTT & MICHELLE SIELER-SCOTT",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000863&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000862",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. Elias Deharo & Rebecca Deharo",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000862&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000861",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. Jaime Culbert & Jason Culbert",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000861&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000860",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. MICHALLIE R. GRAEWIN & ISAIAH GRAEWIN",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000860&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000859",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. Lydia K Bieze & Benjamin Brickson",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000859&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000857",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. Terry Gunderson",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000857&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000855",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. Jeannie A Clark",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000855&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000854",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. Rickard J Ewert Sr.",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000854&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000853",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Gundersen Lutheran Admin Services Inc",
-      "dob": "",
-      "caption": "Gundersen Lutheran Admin Services Inc vs. MARLY XIONG & BEE VANG",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000853&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000852",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Kwik Trip, Inc",
-      "dob": "",
-      "caption": "Kwik Trip, Inc vs. HEATHER HARPENAU & FRANK HARPENAU",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000852&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [
@@ -811,30 +565,6 @@
       "municipality": "Village Of Holmen",
       "parcel_id": "14-01539-002",
       "owner_of_record": "TRAEFALD, ALEXANDER S",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 35
-    },
-    {
-      "case_no": "2026SC000858",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Leisso, Bryan",
-      "dob": "",
-      "caption": "Bryan Leisso vs. David Burzinski",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000858&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "427 CALEDONIA ST",
-      "mailing_address": "25973 MAGNUM RD",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-10041-110",
-      "owner_of_record": "LEISSO, BRYAN A",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 35
     },
@@ -1102,55 +832,6 @@
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
       "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000319",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Holcomb, Travis",
-      "dob": "1978-08",
-      "caption": "Travis Holcomb vs. Darrel Helgerson",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000319&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000318",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Closed",
-      "name": "Xiong, Samuel",
-      "dob": "",
-      "caption": "In Re: the Minor Settlement of Samuel Xiong",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000318&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000856",
-      "filing_date": "2026-06-26",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Drs Anderson & Durtsche LTD",
-      "dob": "",
-      "caption": "Drs Anderson & Durtsche LTD vs. Larry D Tender",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000856&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
       "seller_score": 30
     }
   ]
