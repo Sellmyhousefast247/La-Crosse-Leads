@@ -1,11 +1,28 @@
 {
-  "generated": "2026-07-31",
+  "generated": "2026-08-01",
   "lookback_days": 7,
-  "date_from": "2026-07-24",
-  "date_to": "2026-07-31",
+  "date_from": "2026-07-25",
+  "date_to": "2026-08-01",
   "total": 39,
-  "enriched": 14,
+  "enriched": 12,
   "records": [
+    {
+      "case_no": "2026SC001001",
+      "filing_date": "2026-07-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Citizens State Bank",
+      "dob": "",
+      "caption": "Citizens State Bank vs. Jessica Pederson",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001001&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 60
+    },
     {
       "case_no": "2026CV000394",
       "filing_date": "2026-07-30",
@@ -38,6 +55,32 @@
         "Bank plaintiff (likely foreclosure)"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 60
+    },
+    {
+      "case_no": "2026PR000126",
+      "filing_date": "2026-07-30",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Molina-Roque, Dorothy E.",
+      "dob": "1937-05",
+      "caption": "In the Estate of Dorothy E. Molina-Roque",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000126&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "1218 WINNEBAGO ST",
+      "mailing_address": "1225 WINNEBAGO ST",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-30209-030",
+      "owner_of_record": "MOLINA-ROQUE, DOROTHY E",
+      "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 60
     },
     {
@@ -155,49 +198,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026CV000376",
-      "filing_date": "2026-07-24",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Westby Co-op Credit Union",
-      "dob": "",
-      "caption": "Westby Co-op Credit Union vs. Tyler Carrie et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000376&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000120",
-      "filing_date": "2026-07-24",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Withey, Marla L.H.",
-      "dob": "1954-03",
-      "caption": "In the Estate of Marla L.H. Withey",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000120&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "3736 CLIFFSIDE DR",
-      "mailing_address": "3736 CLIFFSIDE DR",
-      "property_city": "Shelby",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Shelby",
-      "parcel_id": "11-01161-000",
-      "owner_of_record": "WITHEY, MARLA H",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
       "case_no": "2026PR000123",
       "filing_date": "2026-07-29",
       "county": "La Crosse",
@@ -269,30 +269,89 @@
       "seller_score": 45
     },
     {
-      "case_no": "2026SC000983",
-      "filing_date": "2026-07-24",
+      "case_no": "2026SC001000",
+      "filing_date": "2026-07-31",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Jackson Electric Cooperative",
+      "name": "BELLIN GUNDERSEN HEALTH SYSTEM INC",
       "dob": "",
-      "caption": "Jackson Electric Cooperative vs. Rev'd Up, LLC",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000983&countyNo=32",
+      "caption": "BELLIN GUNDERSEN HEALTH SYSTEM INC vs. JENNIFER PARR",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001000&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [
         "LLC / corporate party"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "923 GARLAND ST E",
-      "mailing_address": "923 GARLAND ST E",
-      "property_city": "West Salem",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Village Of West Salem",
-      "parcel_id": "16-01047-101",
-      "owner_of_record": "COOPERATIVE EDUCATIONAL SERVICE AGENCY #4",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 45
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000999",
+      "filing_date": "2026-07-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "BELLIN GUNDERSEN HEALTH SYSTEM INC",
+      "dob": "",
+      "caption": "BELLIN GUNDERSEN HEALTH SYSTEM INC vs. SUMMER SCHULTZ",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000999&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000998",
+      "filing_date": "2026-07-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "BELLIN GUNDERSEN HEALTH SYSTEM INC",
+      "dob": "",
+      "caption": "BELLIN GUNDERSEN HEALTH SYSTEM INC vs. GREGORY SCHULTZ",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000998&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000997",
+      "filing_date": "2026-07-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "BELLIN GUNDERSEN HEALTH SYSTEM INC",
+      "dob": "",
+      "caption": "BELLIN GUNDERSEN HEALTH SYSTEM INC vs. DAVID HURTGEN",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000997&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC000996",
+      "filing_date": "2026-07-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "BELLIN GUNDERSEN HEALTH SYSTEM INC",
+      "dob": "",
+      "caption": "BELLIN GUNDERSEN HEALTH SYSTEM INC vs. DIRK SLABACK",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000996&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
     },
     {
       "case_no": "2026CV000391",
@@ -449,44 +508,6 @@
       "dob": "",
       "caption": "Midland Credit Management, Inc vs. Brandon D Bird",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000986&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026CV000377",
-      "filing_date": "2026-07-24",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "W4102/4104 Ober Road, LLC",
-      "dob": "",
-      "caption": "W4102/4104 Ober Road, LLC vs. Horse Sense for Special Riders, Inc.",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000377&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC000985",
-      "filing_date": "2026-07-24",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "OSHIMA-SMITH, MAILI R",
-      "dob": "",
-      "caption": "LEBAKKENS INC OF WI DBA LEBAKKENS RTO vs. MAILI R OSHIMA-SMITH",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000985&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [
@@ -666,30 +687,6 @@
       "seller_score": 35
     },
     {
-      "case_no": "2026CV000374",
-      "filing_date": "2026-07-24",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Louise, Naomi",
-      "dob": "1968-11",
-      "caption": "Naomi Louise vs. Nicholas Walter Ekern",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000374&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "N4438 EAGLE BLUFF CT",
-      "mailing_address": "N4438 EAGLE BLUFF CT",
-      "property_city": "Medary",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Medary",
-      "parcel_id": "09-00072-005",
-      "owner_of_record": "LOUISE, NAOMI",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 35
-    },
-    {
       "case_no": "2026CV000392",
       "filing_date": "2026-07-30",
       "county": "La Crosse",
@@ -783,23 +780,6 @@
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000379&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC000984",
-      "filing_date": "2026-07-24",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Capital One, N.A. c/o Zwicker & Associates P.C.",
-      "dob": "",
-      "caption": "Capital One, N.A. c/o Zwicker & Associates P.C. vs. Tyler I Ritchie",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC000984&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
