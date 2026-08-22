@@ -1,11 +1,80 @@
 {
-  "generated": "2026-08-21",
+  "generated": "2026-08-22",
   "lookback_days": 7,
-  "date_from": "2026-08-14",
-  "date_to": "2026-08-21",
-  "total": 72,
-  "enriched": 3,
+  "date_from": "2026-08-15",
+  "date_to": "2026-08-22",
+  "total": 61,
+  "enriched": 6,
   "records": [
+    {
+      "case_no": "2026CV000421",
+      "filing_date": "2026-08-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "M&T Bank",
+      "dob": "",
+      "caption": "M&T Bank vs. Moua Xiong et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000421&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Foreclosure",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 60
+    },
+    {
+      "case_no": "2026PR000141",
+      "filing_date": "2026-08-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Johnson, Elizabeth A.",
+      "dob": "",
+      "caption": "In the Estate of Kelly A. Flaschberger",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000141&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "W7977 VERMEER ST",
+      "mailing_address": "W7977 VERMEER ST",
+      "property_city": "Holland",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "Town Of Holland",
+      "parcel_id": "08-02127-000",
+      "owner_of_record": "JOHNSON, ELIZABETH R",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 60
+    },
+    {
+      "case_no": "2026PR000140",
+      "filing_date": "2026-08-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Carlson, Kimberly M.",
+      "dob": "1966-04",
+      "caption": "In the Estate of Kimberly M. Carlson",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000140&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "3000 LINCOLN AVE",
+      "mailing_address": "3000 LINCOLN AVE",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-50111-070",
+      "owner_of_record": "CARLSON, KIMBERLY M",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 60
+    },
     {
       "case_no": "2026CV000417",
       "filing_date": "2026-08-19",
@@ -101,68 +170,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026CV000412",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "American Express National Bank c/o Zwicker & Associates PC",
-      "dob": "",
-      "caption": "American Express National Bank c/o Zwicker & Associates PC vs. Ashton Lawrence",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000412&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000135",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Jobe, Donald D",
-      "dob": "1943-04",
-      "caption": "In the Estate of Donald D Jobe",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000135&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "3107 EDGEWATER DR",
-      "mailing_address": "3107 EDGEWATER DR",
-      "property_city": "Campbell",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Campbell",
-      "parcel_id": "04-01692-000",
-      "owner_of_record": "JOBE, DONALD D",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026SC001079",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Capital One, NA sbm to Capital One Bank (USA), NA",
-      "dob": "",
-      "caption": "Capital One, NA sbm to Capital One Bank (USA), NA vs. JOSEPH L PECK",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001079&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 60
-    },
-    {
       "case_no": "2026PR000138",
       "filing_date": "2026-08-18",
       "county": "La Crosse",
@@ -244,6 +251,82 @@
       "owner_of_record": "ELLINGSON, AMY A",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 45
+    },
+    {
+      "case_no": "2026SC001128",
+      "filing_date": "2026-08-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. FAYE GAVIN",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001128&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001127",
+      "filing_date": "2026-08-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. AARON DOBBS",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001127&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001130",
+      "filing_date": "2026-08-20",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. MAGAN WEBSTER",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001130&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001129",
+      "filing_date": "2026-08-20",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Freddy Zepeda",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001129&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
     },
     {
       "case_no": "2026SC001125",
@@ -829,325 +912,69 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026CV000411",
-      "filing_date": "2026-08-14",
+      "case_no": "2026CV000420",
+      "filing_date": "2026-08-21",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Rusak, Steven",
+      "name": "KELLY, SCOTT R.",
       "dob": "",
-      "caption": "Steven Rusak, Lucas Rusak et al vs. Coulee Auto, LLC & Austin M Kurth",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000411&countyNo=32",
+      "caption": "SCOTT R. KELLY vs. JERALD M. BAUMGARTNER et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000420&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
+      "property_address": "1631 BAINBRIDGE ST",
+      "mailing_address": "2 MARIE CT",
+      "property_city": "Campbell",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "Town Of Campbell",
+      "parcel_id": "04-00897-001",
+      "owner_of_record": "KELLY, SCOTT R",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
-      "case_no": "2026CV000410",
-      "filing_date": "2026-08-14",
+      "case_no": "2026CV000419",
+      "filing_date": "2026-08-21",
       "county": "La Crosse",
       "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "name": "Sykes, Andrew Lee",
       "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. CHRISTOPHER P RAGELS",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000410&countyNo=32",
+      "caption": "Andrew Sykes vs. Alicia Sykes",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000419&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "2019 FARNAM ST",
+      "mailing_address": "2019 FARNAM ST",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-40052-110",
+      "owner_of_record": "SYKES, ANDREW L",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
+    },
+    {
+      "case_no": "2026SC001126",
+      "filing_date": "2026-08-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Gibbons, Alicia Rae",
+      "dob": "",
+      "caption": "Alicia Rae Gibbons vs. Gregory Eckert",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001126&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
       "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001082",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
-      "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. AMY CINA",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001082&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001081",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
-      "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. KRISTEN MULLER",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001081&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001080",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
-      "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. DEBORAH DEBERNARDI",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001080&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001078",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "HEIGHTS FINANCE CORPORATION",
-      "dob": "",
-      "caption": "HEIGHTS FINANCE CORPORATION vs. ALICIA ANNE KLINGBEIL",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001078&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001077",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Standard Acceptance, Inc",
-      "dob": "",
-      "caption": "Standard Acceptance, Inc vs. KEITH SCHROEDER",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001077&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001076",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Standard Acceptance, Inc",
-      "dob": "",
-      "caption": "Standard Acceptance, Inc vs. MARCUS DAVIS",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001076&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001075",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Standard Acceptance, Inc",
-      "dob": "",
-      "caption": "Standard Acceptance, Inc vs. MARIAH STRONG",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001075&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001074",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Standard Acceptance, Inc",
-      "dob": "",
-      "caption": "Standard Acceptance, Inc vs. ALTHEA WALDERA",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001074&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001073",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Standard Acceptance, Inc",
-      "dob": "",
-      "caption": "Standard Acceptance, Inc vs. AMY ZIELKE",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001073&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001072",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Standard Acceptance, Inc",
-      "dob": "",
-      "caption": "Standard Acceptance, Inc vs. ANDERS JACOBSON",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001072&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001071",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
-      "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. ANN BLASCHKE",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001071&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001070",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
-      "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. JULIE PETTYGROVE",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001070&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001069",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
-      "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. JEFFREY ODYA",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001069&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001068",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
-      "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. DAVID E RORAFF",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001068&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001067",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
-      "dob": "",
-      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. JULIE PETTYGROVE",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001067&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
+      "seller_score": 30
     },
     {
       "case_no": "2026CV000418",
@@ -1320,23 +1147,6 @@
       "dob": "",
       "caption": "Dale and Wanda Van Minsel vs. Mike Bjorkman",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001100&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC001056",
-      "filing_date": "2026-08-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Steele, Alisha M.",
-      "dob": "",
-      "caption": "Alisha M. Steele vs. Andrew Regett",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001056&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [],
