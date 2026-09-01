@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-31",
+  "generated": "2026-09-01",
   "lookback_days": 7,
-  "date_from": "2026-08-24",
-  "date_to": "2026-08-31",
-  "total": 51,
-  "enriched": 8,
+  "date_from": "2026-08-25",
+  "date_to": "2026-09-01",
+  "total": 55,
+  "enriched": 9,
   "records": [
     {
       "case_no": "2026SC001168",
@@ -244,7 +244,7 @@
       "status": "Open",
       "name": "U.S. Bank National Association",
       "dob": "",
-      "caption": "U.S. Bank National Association vs. Thomas R. Dayton et al",
+      "caption": "U.S. Bank National Association vs Thomas Dayton, Jamie Sontag, Gundersen Lutheran Administrative Services, Niebuhr Plumbing & Heating et al",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000423&countyNo=32",
       "case_type": "CV",
       "lead_type": "Foreclosure",
@@ -280,25 +280,6 @@
       "dob": "",
       "caption": "Capital One, N.A., successor by merger to Discover Bank vs. Brady Lyons",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001141&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026SC001137",
-      "filing_date": "2026-08-24",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Capital One, N.A., successor by merger to Discover Bank",
-      "dob": "",
-      "caption": "Capital One, N.A., successor by merger to Discover Bank vs. Sherri R Swan",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001137&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [
@@ -360,6 +341,101 @@
       "owner_of_record": "COLLECTIVE ON FOURTH LLC",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 45
+    },
+    {
+      "case_no": "2026CV000432",
+      "filing_date": "2026-08-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. TERRANCE PROKES",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000432&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001174",
+      "filing_date": "2026-08-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. LISA KAY TALLMAN",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001174&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001173",
+      "filing_date": "2026-08-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Paul Voigt",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001173&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001172",
+      "filing_date": "2026-08-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Michelle Volz",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001172&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001171",
+      "filing_date": "2026-08-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. CINDY RADDE",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001171&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
     },
     {
       "case_no": "2026SC001170",
@@ -563,6 +639,25 @@
       "seller_score": 40
     },
     {
+      "case_no": "2026CV000424",
+      "filing_date": "2026-08-25",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Butler, Seth C.",
+      "dob": "",
+      "caption": "Seth C. Butler vs. Andrew P. Singleton, Vertex Holdings LLC d/b/a The Lake Motel et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000424&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
       "case_no": "2026SC001145",
       "filing_date": "2026-08-25",
       "county": "La Crosse",
@@ -648,76 +743,28 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026SC001136",
-      "filing_date": "2026-08-24",
+      "case_no": "2026SC001175",
+      "filing_date": "2026-08-31",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Mariner Finance LLC",
+      "name": "Dutton, Alan P",
       "dob": "",
-      "caption": "Mariner Finance LLC vs. Kaylene Hanson",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001136&countyNo=32",
+      "caption": "Alan P Dutton vs. Lizzy Erickson et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001175&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001135",
-      "filing_date": "2026-08-24",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Mariner Finance LLC",
-      "dob": "",
-      "caption": "Mariner Finance LLC vs. Brandon Hauser",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001135&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001134",
-      "filing_date": "2026-08-24",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Amy L Koblitz",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001134&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001133",
-      "filing_date": "2026-08-24",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Kala Utecht",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001133&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
+      "property_address": "402 8TH AVE S",
+      "mailing_address": "323 GREEN COULEE RD",
+      "property_city": "Onalaska",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of Onalaska",
+      "parcel_id": "18-00447-000",
+      "owner_of_record": "DUTTON, ALAN",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
       "case_no": "2026CV000429",
@@ -814,6 +861,57 @@
       "owner_of_record": "DUTTON, ALAN",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 35
+    },
+    {
+      "case_no": "2026CV000433",
+      "filing_date": "2026-08-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Colt, Charlie Alex",
+      "dob": "",
+      "caption": "In Re: the Name Change of Charlie Alex Colt",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000433&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
+    },
+    {
+      "case_no": "2026SC001177",
+      "filing_date": "2026-08-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Romero-Perez, Philip Mark",
+      "dob": "",
+      "caption": "Philip Mark Romero-Perez vs. Linda Lorena Eskew",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001177&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
+    },
+    {
+      "case_no": "2026SC001176",
+      "filing_date": "2026-08-31",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Like, DuWayne Leslie",
+      "dob": "",
+      "caption": "DuWayne Leslie Like et al vs. JCPenney",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001176&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
     },
     {
       "case_no": "2026CV000431",
@@ -943,23 +1041,6 @@
       "dob": "2004-12",
       "caption": "In Re: the Name Change of Sofia Carmine Borchers",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000427&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000424",
-      "filing_date": "2026-08-25",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Butler, Seth C.",
-      "dob": "",
-      "caption": "Seth C. Butler vs. Andrew P. Singleton et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000424&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
       "flags": [],
