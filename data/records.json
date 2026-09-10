@@ -1,11 +1,29 @@
 {
-  "generated": "2026-09-09",
+  "generated": "2026-09-10",
   "lookback_days": 7,
-  "date_from": "2026-09-02",
-  "date_to": "2026-09-09",
-  "total": 30,
-  "enriched": 10,
+  "date_from": "2026-09-03",
+  "date_to": "2026-09-10",
+  "total": 38,
+  "enriched": 9,
   "records": [
+    {
+      "case_no": "2026CV000444",
+      "filing_date": "2026-09-09",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Freedom Mortgage Corporation",
+      "dob": "",
+      "caption": "Freedom Mortgage Corporation vs. Brandy L Cleveland et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000444&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Foreclosure",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)",
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 70
+    },
     {
       "case_no": "2026CV000438",
       "filing_date": "2026-09-08",
@@ -24,6 +42,24 @@
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
       "address_source": "",
+      "seller_score": 70
+    },
+    {
+      "case_no": "2026CV000436",
+      "filing_date": "2026-09-03",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "U.S. Bank National Association",
+      "dob": "",
+      "caption": "U.S. Bank National Association vs. Vince D. Heal, Natesa Nagalingam-Heal, Solar Mosaic LLC, Portfolio Recovery Associates, LLC et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000436&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Foreclosure",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)",
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
       "seller_score": 70
     },
     {
@@ -51,6 +87,23 @@
       "owner_of_record": "WELLS FARGO BANK NA",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 65
+    },
+    {
+      "case_no": "2026CV000440",
+      "filing_date": "2026-09-08",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "First National Bank Of Omaha",
+      "dob": "",
+      "caption": "First National Bank Of Omaha vs. Christine Strange",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000440&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Foreclosure",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 60
     },
     {
       "case_no": "2026PR000150",
@@ -148,23 +201,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026CV000436",
-      "filing_date": "2026-09-03",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "U.S. Bank National Association",
-      "dob": "",
-      "caption": "U.S. Bank National Association vs. Vince Dean Heal et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000436&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 60
-    },
-    {
       "case_no": "2026PR000147",
       "filing_date": "2026-09-03",
       "county": "La Crosse",
@@ -191,14 +227,33 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026PR000146",
-      "filing_date": "2026-09-02",
+      "case_no": "2026PR000152",
+      "filing_date": "2026-09-09",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Berg, Beverly A.",
-      "dob": "1948-02",
-      "caption": "In the Estate of Beverly A. Berg",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000146&countyNo=32",
+      "name": "Fiers, Jody L.",
+      "dob": "",
+      "caption": "In the Estate of Sandra M. Carlson",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000152&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 55
+    },
+    {
+      "case_no": "2026PR000151",
+      "filing_date": "2026-09-08",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Fiers, Jody L.",
+      "dob": "",
+      "caption": "In the Estate of Robert F. Fiers",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000151&countyNo=32",
       "case_type": "PR",
       "lead_type": "Probate",
       "flags": [
@@ -216,7 +271,7 @@
       "status": "Open",
       "name": "Weber, Queto and Abbie",
       "dob": "",
-      "caption": "Queto and Abbie Weber vs. Hoffer LLC et al",
+      "caption": "Queto and Abbie Weber vs. Hoffer LLC, Suzanne Rauterkus, Bluff Side Real Estate, LLC, Spencer Hegenbarth et al",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000439&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
@@ -262,6 +317,25 @@
       "seller_score": 45
     },
     {
+      "case_no": "2026CV000443",
+      "filing_date": "2026-09-09",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "J.G. Wentworth Originations, LLC",
+      "dob": "",
+      "caption": "J.G. Wentworth Originations, LLC vs. None",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000443&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
       "case_no": "2026CV000437",
       "filing_date": "2026-09-08",
       "county": "La Crosse",
@@ -278,6 +352,118 @@
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
       "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001225",
+      "filing_date": "2026-09-08",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Dawn Tielbar",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001225&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001224",
+      "filing_date": "2026-09-08",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Tracey Vonruden",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001224&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001223",
+      "filing_date": "2026-09-08",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Margaret Dummer",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001223&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001222",
+      "filing_date": "2026-09-08",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Miller Liza",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001222&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001221",
+      "filing_date": "2026-09-08",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Tiffany Geier",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001221&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001220",
+      "filing_date": "2026-09-08",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Lvnv Funding Llc",
+      "dob": "",
+      "caption": "Lvnv Funding Llc vs. Trisha Hanson",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001220&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
       "seller_score": 40
     },
     {
@@ -423,101 +609,6 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026SC001205",
-      "filing_date": "2026-09-02",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Leon C Hankins",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001205&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001204",
-      "filing_date": "2026-09-02",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Meng Lor",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001204&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001203",
-      "filing_date": "2026-09-02",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Jill Czarnecki",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001203&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001202",
-      "filing_date": "2026-09-02",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Laurie A Johnson",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001202&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001201",
-      "filing_date": "2026-09-02",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Christopher M Veurink",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001201&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
       "case_no": "2026SC001219",
       "filing_date": "2026-09-08",
       "county": "La Crosse",
@@ -566,28 +657,81 @@
       "seller_score": 35
     },
     {
-      "case_no": "2026SC001200",
-      "filing_date": "2026-09-02",
+      "case_no": "2026CV000442",
+      "filing_date": "2026-09-09",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Coulee Homes, Ltd.",
+      "name": "",
       "dob": "",
-      "caption": "Coulee Homes, Ltd. vs. Sandra S Fox et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001200&countyNo=32",
+      "caption": "Petitioner vs. Karey Lambert",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000442&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 30
+    },
+    {
+      "case_no": "2026CV000441",
+      "filing_date": "2026-09-09",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Marcou, RaeAnn Jo",
+      "dob": "1997-06",
+      "caption": "In Re: the Name Change of RaeAnn Jo Marcou",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000441&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
+    },
+    {
+      "case_no": "2026SC001228",
+      "filing_date": "2026-09-09",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Nickelatti Real Estate",
+      "dob": "",
+      "caption": "Nickelatti Real Estate vs. Crystal S. Neal",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001228&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "1106 WILSON ST",
-      "mailing_address": "809 KANE ST",
-      "property_city": "Onalaska",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of Onalaska",
-      "parcel_id": "18-00970-000",
-      "owner_of_record": "COULEE HOMES LIMITED",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 35
+      "seller_score": 30
+    },
+    {
+      "case_no": "2026SC001227",
+      "filing_date": "2026-09-09",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Nickelatti Real Estate",
+      "dob": "",
+      "caption": "Nickelatti Real Estate vs. Jaleel Williams",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001227&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 30
+    },
+    {
+      "case_no": "2026SC001226",
+      "filing_date": "2026-09-09",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Nickelatti Real Estate",
+      "dob": "",
+      "caption": "Nickelatti Real Estate vs. Olivia Hooker",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001226&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 30
     },
     {
       "case_no": "2026SC001212",
@@ -600,23 +744,6 @@
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001212&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000435",
-      "filing_date": "2026-09-02",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Crotzer, Denefia",
-      "dob": "",
-      "caption": "Voluntary Amortization of Debts of Denefia Crotzer",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000435&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
