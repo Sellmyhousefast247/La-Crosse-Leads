@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-14",
+  "generated": "2026-09-15",
   "lookback_days": 7,
-  "date_from": "2026-09-07",
-  "date_to": "2026-09-14",
-  "total": 49,
+  "date_from": "2026-09-08",
+  "date_to": "2026-09-15",
+  "total": 51,
   "enriched": 8,
   "records": [
     {
@@ -329,6 +329,25 @@
       "seller_score": 45
     },
     {
+      "case_no": "2026SC001246",
+      "filing_date": "2026-09-14",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Mariner Finance, SII. Personal Finance Company LLC",
+      "dob": "",
+      "caption": "Mariner Finance, SII. Personal Finance Company LLC vs. KRISTIE A PETERS & JESS D PETERS",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001246&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
       "case_no": "2026CV000448",
       "filing_date": "2026-09-11",
       "county": "La Crosse",
@@ -339,6 +358,23 @@
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000448&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001247",
+      "filing_date": "2026-09-11",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "LVNV Funding LLC",
+      "dob": "",
+      "caption": "LVNV Funding LLC vs. Joanna Kocimski",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001247&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
       "flags": [
         "LLC / corporate party"
       ],
