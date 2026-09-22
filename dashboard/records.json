@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-21",
+  "generated": "2026-09-22",
   "lookback_days": 7,
-  "date_from": "2026-09-14",
-  "date_to": "2026-09-21",
+  "date_from": "2026-09-15",
+  "date_to": "2026-09-22",
   "total": 50,
-  "enriched": 11,
+  "enriched": 13,
   "records": [
     {
       "case_no": "2026CV000458",
@@ -43,6 +43,70 @@
       "property_address": "",
       "address_source": "",
       "seller_score": 70
+    },
+    {
+      "case_no": "2026PR000156",
+      "filing_date": "2026-09-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Numsen, Dian K.",
+      "dob": "1934-07",
+      "caption": "In the Estate of Dian K. Numsen",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000156&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "858 VISTA CT N",
+      "mailing_address": "N3184 VISTA CT N",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-10287-001",
+      "owner_of_record": "NUMSEN REVOCABLE TRUST, DIAN K",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 60
+    },
+    {
+      "case_no": "2026SC001285",
+      "filing_date": "2026-09-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Capital One, N.A., successor by merger to Discover Bank",
+      "dob": "",
+      "caption": "Capital One, N.A., successor by merger to Discover Bank vs. Jayde L Lee",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001285&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 60
+    },
+    {
+      "case_no": "2026SC001284",
+      "filing_date": "2026-09-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Capital One, N.A., successor by merger to Discover Bank",
+      "dob": "",
+      "caption": "Capital One, N.A., successor by merger to Discover Bank vs. Steve R Kahl",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001284&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 60
     },
     {
       "case_no": "2026SC001277",
@@ -185,57 +249,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026CV000451",
-      "filing_date": "2026-09-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "National Collegiate Student Loan Trust",
-      "dob": "",
-      "caption": "National Collegiate Student Loan Trust vs. Robert E Diersen & Charles E Huth",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000451&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026CV000450",
-      "filing_date": "2026-09-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "National Collegiate Student Loan Trust",
-      "dob": "",
-      "caption": "National Collegiate Student Loan Trust vs. Robert E Diersen  & Charles E Huth",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000450&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026CV000449",
-      "filing_date": "2026-09-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "American Express National Bank c/o Zwicker & Associates PC",
-      "dob": "",
-      "caption": "American Express National Bank c/o Zwicker & Associates PC vs. August Weber",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000449&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 60
-    },
-    {
       "case_no": "2026PR000154",
       "filing_date": "2026-09-15",
       "county": "La Crosse",
@@ -331,6 +344,44 @@
       "owner_of_record": "KRONER JR, JAMES L",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 45
+    },
+    {
+      "case_no": "2026CV000462",
+      "filing_date": "2026-09-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "BCG Equities, LLC",
+      "dob": "",
+      "caption": "BCG Equities, LLC vs. KEVIN M LAROCHE",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000462&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001286",
+      "filing_date": "2026-09-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Horizon Management Group, Inc.",
+      "dob": "",
+      "caption": "Horizon Management Group, Inc. vs. Loree Peterson",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001286&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
     },
     {
       "case_no": "2026SC001282",
@@ -553,97 +604,28 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026SC001251",
-      "filing_date": "2026-09-14",
+      "case_no": "2026SC001283",
+      "filing_date": "2026-09-21",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Midland Credit Management, Inc",
+      "name": "Walton, Howard Daniel",
       "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Nicole Horihan",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001251&countyNo=32",
+      "caption": "Howard Daniel Walton vs. Hunter Taylor et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001283&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001250",
-      "filing_date": "2026-09-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Jennifer Osthoff",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001250&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001249",
-      "filing_date": "2026-09-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Lvnv Funding Llc",
-      "dob": "",
-      "caption": "Lvnv Funding Llc vs. Christa Hamilton",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001249&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001248",
-      "filing_date": "2026-09-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Lauren Tiggelaar",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001248&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001246",
-      "filing_date": "2026-09-14",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Mariner Finance, SII. Personal Finance Company LLC",
-      "dob": "",
-      "caption": "Mariner Finance, SII. Personal Finance Company LLC vs. KRISTIE A PETERS & JESS D PETERS",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001246&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
+      "property_address": "1013 7TH ST S",
+      "mailing_address": "1013 7TH ST S",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-30003-120",
+      "owner_of_record": "WALTON, HOWARD D",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
       "case_no": "2026CV000460",
@@ -812,6 +794,38 @@
       "owner_of_record": "WESTERBERG REVOCABLE TRUST, ERIC J",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 35
+    },
+    {
+      "case_no": "2026CV000463",
+      "filing_date": "2026-09-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Egner, Justine",
+      "dob": "",
+      "caption": "Justine Egner & Shannon Suddeth vs. Gundersen Clinic, Ltd. et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000463&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
+    },
+    {
+      "case_no": "2026CV000461",
+      "filing_date": "2026-09-21",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "",
+      "dob": "",
+      "caption": "Petitioner vs. Roderick Lenair Williams",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000461&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 30
     },
     {
       "case_no": "2026CV000459",
