@@ -1,11 +1,72 @@
 {
-  "generated": "2026-10-19",
+  "generated": "2026-10-20",
   "lookback_days": 7,
-  "date_from": "2026-10-12",
-  "date_to": "2026-10-19",
-  "total": 45,
-  "enriched": 13,
+  "date_from": "2026-10-13",
+  "date_to": "2026-10-20",
+  "total": 47,
+  "enriched": 14,
   "records": [
+    {
+      "case_no": "2026CV000525",
+      "filing_date": "2026-10-19",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "U.S. BANK TRUST NATIONAL ASSOCIATION",
+      "dob": "",
+      "caption": "U.S. BANK TRUST NATIONAL ASSOCIATION vs. ESTATE OF RICHARD VALENTINE, DECEASED et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000525&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate",
+        "Bank plaintiff (likely foreclosure)"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 70
+    },
+    {
+      "case_no": "2026CV000526",
+      "filing_date": "2026-10-19",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Associated Bank, N.A.",
+      "dob": "",
+      "caption": "Associated Bank, N.A. vs. Kristine M. Albitz et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000526&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Foreclosure",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "205 4TH ST N",
+      "mailing_address": "433 MAIN ST",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-40381-130",
+      "owner_of_record": "ASSOCIATED BANK NATIONAL ASSOCIATION",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 65
+    },
+    {
+      "case_no": "2026CV000524",
+      "filing_date": "2026-10-19",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Marine Credit Union",
+      "dob": "",
+      "caption": "Marine Credit Union vs. Damien Christmon",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000524&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Foreclosure",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 60
+    },
     {
       "case_no": "2026PR000179",
       "filing_date": "2026-10-15",
@@ -145,23 +206,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026CV000512",
-      "filing_date": "2026-10-12",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "First National Bank Of Omaha",
-      "dob": "",
-      "caption": "First National Bank Of Omaha vs. Andrew Jones",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000512&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 60
-    },
-    {
       "case_no": "2026PR000177",
       "filing_date": "2026-10-14",
       "county": "La Crosse",
@@ -200,42 +244,6 @@
       "seller_score": 55
     },
     {
-      "case_no": "2026PR000173",
-      "filing_date": "2026-10-12",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Amended and Restated Janet M. Crowell Revocable Trust",
-      "dob": "",
-      "caption": "In the Matter of the Amended & Restated Janet M. Cromwell Revocable Trust",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000173&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 55
-    },
-    {
-      "case_no": "2026PR000172",
-      "filing_date": "2026-10-12",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Greene, Richard R.",
-      "dob": "1942-05",
-      "caption": "In the Estate of Richard R. Greene",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000172&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 55
-    },
-    {
       "case_no": "2026CV000520",
       "filing_date": "2026-10-15",
       "county": "La Crosse",
@@ -260,6 +268,175 @@
       "owner_of_record": "WALLACE, ADAM",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 45
+    },
+    {
+      "case_no": "2026SC001404",
+      "filing_date": "2026-10-19",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. DAN J HEATH",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001404&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001403",
+      "filing_date": "2026-10-19",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. ALYSSA M MOORE",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001403&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001402",
+      "filing_date": "2026-10-19",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. MICHAELA LOVE",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001402&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001401",
+      "filing_date": "2026-10-19",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. CHANTEL TURK",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001401&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001400",
+      "filing_date": "2026-10-19",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. TRINITI AKEMANN",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001400&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001399",
+      "filing_date": "2026-10-19",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "PORTFOLIO RECOVERY ASSOCIATES, LLC",
+      "dob": "",
+      "caption": "PORTFOLIO RECOVERY ASSOCIATES, LLC vs. PHOUI BUARAPHA",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001399&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001398",
+      "filing_date": "2026-10-19",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Midland Credit Management, Inc",
+      "dob": "",
+      "caption": "Midland Credit Management, Inc vs. Benjamin R Wiora",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001398&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001397",
+      "filing_date": "2026-10-16",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "LEBAKKENS INC OF WI DBA LEBAKKENS RTO",
+      "dob": "",
+      "caption": "LEBAKKENS INC OF WI DBA LEBAKKENS RTO vs. NOAH GARZA",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001397&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001396",
+      "filing_date": "2026-10-16",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "GOINS, TAVIUS C",
+      "dob": "",
+      "caption": "LEBAKKENS INC OF WI DBA LEBAKKENS RTO vs. TAVIUS C GOINS",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001396&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
     },
     {
       "case_no": "2026SC001393",
@@ -334,57 +511,28 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026SC001377",
-      "filing_date": "2026-10-12",
+      "case_no": "2026CV000523",
+      "filing_date": "2026-10-19",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Lvnv Funding Llc",
+      "name": "Clay, Anthony Kengaquious",
       "dob": "",
-      "caption": "Lvnv Funding Llc vs. Rocky Nagel",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001377&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "caption": "Anthony Kengaquious Clay vs. Jacqueline Stedman Golden",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000523&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001376",
-      "filing_date": "2026-10-12",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Lvnv Funding Llc",
-      "dob": "",
-      "caption": "Lvnv Funding Llc vs. Alisa Brahm",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001376&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001375",
-      "filing_date": "2026-10-12",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "River City Rentals, LLC",
-      "dob": "",
-      "caption": "River City Rentals, LLC vs. Johnrussell Eugene Stuber",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001375&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
+      "property_address": "1401 MAPLE DR",
+      "mailing_address": "1401 MAPLE DR",
+      "property_city": "Rockland",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "Village Of Rockland",
+      "parcel_id": "15-00255-000",
+      "owner_of_record": "CLAY, MICHELLE R",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
       "case_no": "2026SC001394",
@@ -555,28 +703,21 @@
       "seller_score": 35
     },
     {
-      "case_no": "2026CV000511",
-      "filing_date": "2026-10-12",
+      "case_no": "2026SC001395",
+      "filing_date": "2026-10-16",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Mitby, Eugene E.",
+      "name": "County of La Crosse",
       "dob": "",
-      "caption": "Eugene E. Mitby et al vs. John Doe",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000511&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
+      "caption": "County of La Crosse vs. Michale Yakaites",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001395&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "4510 OAK DR",
-      "mailing_address": "4510 OAK DR",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-50380-040",
-      "owner_of_record": "MITBY (LE), EUGENE E",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 35
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
     },
     {
       "case_no": "2026SC001392",
@@ -760,72 +901,6 @@
       "seller_score": 30
     },
     {
-      "case_no": "2026CV000509",
-      "filing_date": "2026-10-12",
-      "county": "La Crosse",
-      "status": "Closed",
-      "name": "",
-      "dob": "",
-      "caption": "Petitioner vs. Joshua Riley Noonan",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000509&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000508",
-      "filing_date": "2026-10-12",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Charbeneau, Julia Renee",
-      "dob": "",
-      "caption": "In Re: the Name Change of Julia Renee Charbeneau",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000508&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC001374",
-      "filing_date": "2026-10-12",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Millenium Anesthesiologists, S.C.",
-      "dob": "",
-      "caption": "Millenium Anesthesiologists, S.C. vs. MARTELL HARRIS",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001374&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC001373",
-      "filing_date": "2026-10-12",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Estrata, Yvonne",
-      "dob": "",
-      "caption": "Yvonne Estrata vs. AT&T",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001373&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
       "case_no": "2026CV000522",
       "filing_date": "",
       "county": "La Crosse",
@@ -849,21 +924,6 @@
       "dob": "",
       "caption": "This case is sealed and is not available for viewing by order of Judge Doyle",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000514&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026CV000510",
-      "filing_date": "",
-      "county": "La Crosse",
-      "status": "",
-      "name": "",
-      "dob": "",
-      "caption": "Case Sealed - Confidential Name Change",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000510&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
       "flags": [],
