@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-25",
+  "generated": "2026-10-26",
   "lookback_days": 7,
-  "date_from": "2026-10-18",
-  "date_to": "2026-10-25",
+  "date_from": "2026-10-19",
+  "date_to": "2026-10-26",
   "total": 59,
   "enriched": 10,
   "records": [
@@ -588,7 +588,7 @@
       "property_zip": "",
       "municipality": "Village Of West Salem",
       "parcel_id": "16-00527-000",
-      "owner_of_record": "CANNON, TINA MARIE",
+      "owner_of_record": "CANNON, MARK ALLEN",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 35
     },
