@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-01",
+  "generated": "2026-11-02",
   "lookback_days": 7,
-  "date_from": "2026-10-25",
-  "date_to": "2026-11-01",
-  "total": 45,
-  "enriched": 15,
+  "date_from": "2026-10-26",
+  "date_to": "2026-11-02",
+  "total": 46,
+  "enriched": 16,
   "records": [
     {
       "case_no": "2026CV000556",
@@ -368,7 +368,7 @@
       "property_zip": "",
       "municipality": "City Of La Crosse",
       "parcel_id": "17-30038-060",
-      "owner_of_record": "DROOG, MICHAEL",
+      "owner_of_record": "DROOG, PATRICIA",
       "address_source": "La Crosse County Public Portal (Catalis)",
       "seller_score": 45
     },
@@ -613,6 +613,30 @@
       "property_address": "",
       "address_source": "",
       "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001464",
+      "filing_date": "2026-11-02",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Steinhoff, Rona Lee Kim",
+      "dob": "",
+      "caption": "Rona Lee Kim Steinhoff vs. Cassie Morgan George",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001464&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "N6681 MCCURDY RD",
+      "mailing_address": "N6681 MCCURDY RD",
+      "property_city": "Onalaska",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "Town Of Onalaska",
+      "parcel_id": "10-00212-010",
+      "owner_of_record": "STEINHOFF, RONA LEE",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
       "case_no": "2026CV000549",
