@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-06",
+  "generated": "2026-11-07",
   "lookback_days": 7,
-  "date_from": "2026-10-30",
-  "date_to": "2026-11-06",
-  "total": 48,
-  "enriched": 16,
+  "date_from": "2026-10-31",
+  "date_to": "2026-11-07",
+  "total": 42,
+  "enriched": 14,
   "records": [
     {
       "case_no": "2026CV000564",
@@ -53,26 +53,6 @@
       "dob": "",
       "caption": "Lendmark Financial Services, LLC vs. MICHELLE WEAVER",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000557&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)",
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 70
-    },
-    {
-      "case_no": "2026CV000556",
-      "filing_date": "2026-10-30",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Alerus Financial, N.A.",
-      "dob": "",
-      "caption": "Alerus Financial, N.A. vs. Hope Stay, Inc., Hope Stay Holdings, LLC, Riverview Home Health Care, Inc., Riverview Transportation, Inc. et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000556&countyNo=32",
       "case_type": "CV",
       "lead_type": "Foreclosure",
       "flags": [
@@ -223,58 +203,6 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026PR000187",
-      "filing_date": "2026-10-30",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Niccum, Dennis D",
-      "dob": "1954-10",
-      "caption": "In the Estate of Dennis D Niccum",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000187&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "N8498 US HIGHWAY 53",
-      "mailing_address": "N8498 US HIGHWAY 53",
-      "property_city": "Holland",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Holland",
-      "parcel_id": "08-00953-000",
-      "owner_of_record": "NICCUM, DENNIS D",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000186",
-      "filing_date": "2026-10-30",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Coelin, Melissa L.",
-      "dob": "1971-07",
-      "caption": "In the Estate of Melissa L. Coelin",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000186&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "491 LEONARD ST N",
-      "mailing_address": "491 LEONARD ST N",
-      "property_city": "West Salem",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Village Of West Salem",
-      "parcel_id": "16-00593-000",
-      "owner_of_record": "COELIN, DAVID E",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
       "case_no": "2026SC001468",
       "filing_date": "2026-11-02",
       "county": "La Crosse",
@@ -354,32 +282,6 @@
       "seller_score": 45
     },
     {
-      "case_no": "2026CV000553",
-      "filing_date": "2026-10-30",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Switzer, Zachary J",
-      "dob": "",
-      "caption": "Zachary J Switzer vs. Exchange Building LLC",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000553&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Civil",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "1227 17TH ST S",
-      "mailing_address": "1227 17TH ST S",
-      "property_city": "La Crosse",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of La Crosse",
-      "parcel_id": "17-40025-080",
-      "owner_of_record": "SWITZER, CARMEN E",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 45
-    },
-    {
       "case_no": "2026CV000570",
       "filing_date": "2026-11-05",
       "county": "La Crosse",
@@ -396,6 +298,42 @@
       "source": "Wisconsin Circuit Courts (WCCA)",
       "property_address": "",
       "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001488",
+      "filing_date": "2026-11-05",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "ZRS Rentals, LLC",
+      "dob": "",
+      "caption": "ZRS Rentals, LLC vs. John Schwietzer et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001488&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001486",
+      "filing_date": "2026-11-05",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Lvnv Funding Llc",
+      "dob": "",
+      "caption": "Lvnv Funding Llc vs. Donna M Dolan",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001486&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
       "seller_score": 40
     },
     {
@@ -522,61 +460,28 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026CV000552",
-      "filing_date": "2026-10-30",
+      "case_no": "2026CV000572",
+      "filing_date": "2026-11-06",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Property Logic, LLC",
+      "name": "Sevcik, Daniel",
       "dob": "",
-      "caption": "Property Logic, LLC vs. Busse West, LLC d/b/a Perpetual Water Solutions, LLC & William Hults",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000552&countyNo=32",
+      "caption": "Daniel Sevcik et al vs. American Family Insurance Company",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000572&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001467",
-      "filing_date": "2026-10-30",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Cody Wagner",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001467&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001466",
-      "filing_date": "2026-10-30",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Midland Credit Management, Inc",
-      "dob": "",
-      "caption": "Midland Credit Management, Inc vs. Melissa L Coelin",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001466&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
+      "property_address": "2059 GRAND VIEW BLVD",
+      "mailing_address": "2059 GRANDVIEW BLVD",
+      "property_city": "Onalaska",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of Onalaska",
+      "parcel_id": "18-04052-000",
+      "owner_of_record": "SEVCIK, DANIEL",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
       "case_no": "2026SC001484",
@@ -735,6 +640,23 @@
       "lead_type": "Civil",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 30
+    },
+    {
+      "case_no": "2026SC001487",
+      "filing_date": "2026-11-05",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "RPI Management",
+      "dob": "",
+      "caption": "RPI Management vs. Bobby L Williams",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001487&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
       "seller_score": 30
     },
     {
@@ -918,57 +840,6 @@
       "lead_type": "Small Claims",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC001465",
-      "filing_date": "2026-10-30",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Capital One, N.A.",
-      "dob": "",
-      "caption": "Capital One, N.A. vs. Erin M Clark",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001465&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC001463",
-      "filing_date": "2026-10-30",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Housing Authority of the City of La Crosse",
-      "dob": "",
-      "caption": "Housing Authority of the City of La Crosse vs. Bryan Taylor",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001463&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC001462",
-      "filing_date": "2026-10-30",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Housing Authority of the City of La Crosse",
-      "dob": "",
-      "caption": "Housing Authority of the City of La Crosse vs. Lisa Servais",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001462&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
       "seller_score": 30
     }
   ]
