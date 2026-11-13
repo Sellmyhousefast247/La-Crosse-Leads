@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-13",
   "lookback_days": 7,
-  "date_from": "2026-11-05",
-  "date_to": "2026-11-12",
-  "total": 25,
-  "enriched": 9,
+  "date_from": "2026-11-06",
+  "date_to": "2026-11-13",
+  "total": 31,
+  "enriched": 10,
   "records": [
     {
       "case_no": "2026CV000578",
@@ -34,6 +34,26 @@
       "seller_score": 75
     },
     {
+      "case_no": "2026SC001498",
+      "filing_date": "2026-11-12",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Index Loans, LLC",
+      "dob": "",
+      "caption": "Index Loans, LLC vs. BROCK FORTNEY",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001498&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "Bank plaintiff (likely foreclosure)",
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 70
+    },
+    {
       "case_no": "2026CV000575",
       "filing_date": "2026-11-09",
       "county": "La Crosse",
@@ -52,6 +72,32 @@
       "property_address": "",
       "address_source": "",
       "seller_score": 70
+    },
+    {
+      "case_no": "2026PR000193",
+      "filing_date": "2026-11-12",
+      "county": "La Crosse",
+      "status": "Closed",
+      "name": "Ray, Steven C.",
+      "dob": "",
+      "caption": "In the Estate of Steven C. Ray",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000193&countyNo=32",
+      "case_type": "PR",
+      "lead_type": "Probate",
+      "flags": [
+        "Probate / estate"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "902 KIME ST",
+      "mailing_address": "902 KIME ST",
+      "property_city": "Campbell",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "Town Of Campbell",
+      "parcel_id": "04-01641-002",
+      "owner_of_record": "RAY, STEVEN C",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 60
     },
     {
       "case_no": "2026CV000574",
@@ -118,47 +164,127 @@
       "seller_score": 60
     },
     {
-      "case_no": "2026CV000569",
-      "filing_date": "2026-11-05",
+      "case_no": "2026PR000194",
+      "filing_date": "2026-11-12",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Marine Credit Union",
-      "dob": "",
-      "caption": "Marine Credit Union vs. Kelly Ginther",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000569&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000191",
-      "filing_date": "2026-11-05",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Ritter, Dorothy E.",
-      "dob": "1936-12",
-      "caption": "In the Estate of Dorothy E. Ritter",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000191&countyNo=32",
+      "name": "McNulty, Rebecca L",
+      "dob": "1950-12",
+      "caption": "In the Estate of Rebecca L McNulty",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000194&countyNo=32",
       "case_type": "PR",
       "lead_type": "Probate",
       "flags": [
         "Probate / estate"
       ],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "117 OLIVET ST",
-      "mailing_address": "117 OLIVET ST",
-      "property_city": "Campbell",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Town Of Campbell",
-      "parcel_id": "04-00271-000",
-      "owner_of_record": "RITTER, DOROTHY E",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 55
+    },
+    {
+      "case_no": "2026SC001502",
+      "filing_date": "2026-11-13",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "RIVER REIGON RENTALS LLC",
+      "dob": "",
+      "caption": "RIVER REIGON RENTALS LLC vs. ALLISON EVANSCOLLER",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001502&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001501",
+      "filing_date": "2026-11-12",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Creative Finance, Inc.",
+      "dob": "",
+      "caption": "Creative Finance, Inc. vs. Karen Marie Green",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001501&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001500",
+      "filing_date": "2026-11-12",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Reel Time Capital LLC",
+      "dob": "",
+      "caption": "Reel Time Capital LLC vs. JOSEPHINE RILEY",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001500&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001499",
+      "filing_date": "2026-11-12",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Reel Time Capital LLC",
+      "dob": "",
+      "caption": "Reel Time Capital LLC vs. ERIC LEE",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001499&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001497",
+      "filing_date": "2026-11-12",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Cash Link USA LLC",
+      "dob": "",
+      "caption": "Cash Link USA LLC vs. MAURICE SAVAGE",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001497&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
+    },
+    {
+      "case_no": "2026SC001496",
+      "filing_date": "2026-11-12",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Great River Commercial Cener LLC",
+      "dob": "",
+      "caption": "Great River Commercial Center LLC vs. Jonathan P Mathwig & Thea R Stout",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001496&countyNo=32",
+      "case_type": "SC",
+      "lead_type": "Small Claims",
+      "flags": [
+        "LLC / corporate party"
+      ],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "seller_score": 40
     },
     {
       "case_no": "2026CV000579",
@@ -267,59 +393,52 @@
       "seller_score": 40
     },
     {
-      "case_no": "2026CV000570",
-      "filing_date": "2026-11-05",
+      "case_no": "2026CV000583",
+      "filing_date": "2026-11-12",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Select Portfolio Servicing, Inc.",
+      "name": "Collins, Brian",
       "dob": "",
-      "caption": "Select Portfolio Servicing, Inc. vs. Julie Carrell",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000570&countyNo=32",
+      "caption": "Brian Collins et al vs. Joel Shelby et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000583&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
+      "property_address": "1109 GILLETTE ST",
+      "mailing_address": "1326 MISSISSIPPI ST",
+      "property_city": "La Crosse",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of La Crosse",
+      "parcel_id": "17-10116-100",
+      "owner_of_record": "COLLINS PAINTING INC, BRIAN",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
-      "case_no": "2026SC001488",
-      "filing_date": "2026-11-05",
+      "case_no": "2026CV000581",
+      "filing_date": "2026-11-12",
       "county": "La Crosse",
       "status": "Open",
-      "name": "ZRS Rentals, LLC",
+      "name": "VanVoorhees, Bailey",
       "dob": "",
-      "caption": "ZRS Rentals, LLC vs. John Schwietzer & Stacey Schwietzer",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001488&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
+      "caption": "Voluntary Amortization of Debts of Bailey VanVoorhees",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000581&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 40
-    },
-    {
-      "case_no": "2026SC001486",
-      "filing_date": "2026-11-05",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Lvnv Funding Llc",
-      "dob": "",
-      "caption": "Lvnv Funding Llc vs. Donna M Dolan",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001486&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 40
+      "property_address": "1300 JOHNSON ST",
+      "mailing_address": "1300 JOHNSON ST",
+      "property_city": "Onalaska",
+      "property_state": "WI",
+      "property_zip": "",
+      "municipality": "City Of Onalaska",
+      "parcel_id": "18-02815-000",
+      "owner_of_record": "VANVOORHEES, BAILEY MAY",
+      "address_source": "La Crosse County Public Portal (Catalis)",
+      "seller_score": 35
     },
     {
       "case_no": "2026CV000580",
@@ -442,28 +561,36 @@
       "seller_score": 35
     },
     {
-      "case_no": "2026SC001484",
-      "filing_date": "2026-11-05",
+      "case_no": "2026CV000584",
+      "filing_date": "2026-11-12",
       "county": "La Crosse",
       "status": "Open",
-      "name": "Audetat, Isabella",
+      "name": "West Bend Insurance Company",
       "dob": "",
-      "caption": "Isabella Audetat vs. WEC Rentals",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001484&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
+      "caption": "West Bend Insurance Company vs. Michael B Keller et al",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000584&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "128 ROBERTS ST E",
-      "mailing_address": "128 ROBERTS ST E",
-      "property_city": "Holmen",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "Village Of Holmen",
-      "parcel_id": "14-00379-000",
-      "owner_of_record": "AUDETAT, CHRISTI L",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 35
+      "seller_score": 30
+    },
+    {
+      "case_no": "2026CV000582",
+      "filing_date": "2026-11-12",
+      "county": "La Crosse",
+      "status": "Open",
+      "name": "Potterton, Evemarie",
+      "dob": "",
+      "caption": "Evemarie Potterton vs. Macey M Tralmer",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000582&countyNo=32",
+      "case_type": "CV",
+      "lead_type": "Civil",
+      "flags": [],
+      "source": "Wisconsin Circuit Courts (WCCA)",
+      "property_address": "",
+      "address_source": "",
+      "seller_score": 30
     },
     {
       "case_no": "2026SC001490",
@@ -483,35 +610,18 @@
       "seller_score": 30
     },
     {
-      "case_no": "2026CV000571",
-      "filing_date": "2026-11-05",
+      "case_no": "2026CV000585",
+      "filing_date": "",
       "county": "La Crosse",
-      "status": "Open",
+      "status": "",
       "name": "",
       "dob": "",
-      "caption": "Petitioner vs. Cecilia Bellah",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000571&countyNo=32",
+      "caption": "Case Sealed - Confidential Name Change",
+      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000585&countyNo=32",
       "case_type": "CV",
       "lead_type": "Civil",
       "flags": [],
       "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 30
-    },
-    {
-      "case_no": "2026SC001487",
-      "filing_date": "2026-11-05",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "RPI Management",
-      "dob": "",
-      "caption": "RPI Management vs. Bobby L Williams",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001487&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
       "seller_score": 30
     }
   ]
