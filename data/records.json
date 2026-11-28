@@ -1,49 +1,11 @@
 {
-  "generated": "2026-11-27",
+  "generated": "2026-11-28",
   "lookback_days": 7,
-  "date_from": "2026-11-20",
-  "date_to": "2026-11-27",
-  "total": 39,
-  "enriched": 5,
+  "date_from": "2026-11-21",
+  "date_to": "2026-11-28",
+  "total": 34,
+  "enriched": 4,
   "records": [
-    {
-      "case_no": "2026CV000596",
-      "filing_date": "2026-11-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "CrossCountry Mortgage, LLC",
-      "dob": "",
-      "caption": "CrossCountry Mortgage, LLC vs. Amanda Mroch, John Mroch, United States of America by and through the Secretary of HUD",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000596&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)",
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 70
-    },
-    {
-      "case_no": "2026CV000595",
-      "filing_date": "2026-11-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Freedom Mortgage Corporation",
-      "dob": "",
-      "caption": "Freedom Mortgage Corporation vs. Katie L. Hutzenbuehler, Joseph J. Trowbridge et al",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026CV000595&countyNo=32",
-      "case_type": "CV",
-      "lead_type": "Foreclosure",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)",
-        "LLC / corporate party"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "seller_score": 70
-    },
     {
       "case_no": "2026CV000602",
       "filing_date": "2026-11-25",
@@ -124,70 +86,6 @@
       "dob": "",
       "caption": "Capital One, N.A., successor by merger to Discover Bank vs. LYDIA COULTER",
       "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001536&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026PR000198",
-      "filing_date": "2026-11-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Molzahn, Judith L.",
-      "dob": "1943-11",
-      "caption": "In the Estate of Judith L. Molzahn",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026PR000198&countyNo=32",
-      "case_type": "PR",
-      "lead_type": "Probate",
-      "flags": [
-        "Probate / estate"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "3544 KINNEY COULEE RD S",
-      "mailing_address": "3544 KINNEY COULEE RD S",
-      "property_city": "Onalaska",
-      "property_state": "WI",
-      "property_zip": "",
-      "municipality": "City Of Onalaska",
-      "parcel_id": "18-03654-074",
-      "owner_of_record": "MOLZAHN, JUDITH",
-      "address_source": "La Crosse County Public Portal (Catalis)",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026SC001531",
-      "filing_date": "2026-11-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Capital One, N.A., successor by merger to Discover Bank",
-      "dob": "",
-      "caption": "Capital One, N.A., successor by merger to Discover Bank vs. Julie A Carrell",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001531&countyNo=32",
-      "case_type": "SC",
-      "lead_type": "Small Claims",
-      "flags": [
-        "Bank plaintiff (likely foreclosure)"
-      ],
-      "source": "Wisconsin Circuit Courts (WCCA)",
-      "property_address": "",
-      "address_source": "",
-      "seller_score": 60
-    },
-    {
-      "case_no": "2026SC001530",
-      "filing_date": "2026-11-20",
-      "county": "La Crosse",
-      "status": "Open",
-      "name": "Capital One, N.A., successor by merger to Discover Bank",
-      "dob": "",
-      "caption": "Capital One, N.A., successor by merger to Discover Bank vs. Hannah Roe",
-      "url": "https://wcca.wicourts.gov/caseDetail.html?caseNo=2026SC001530&countyNo=32",
       "case_type": "SC",
       "lead_type": "Small Claims",
       "flags": [
